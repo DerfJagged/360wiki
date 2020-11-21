@@ -4,7 +4,7 @@ Error Codes
 
 Remove Parental Lock
 
-Preparing a Xbox 360 Development Environment in Windows 10
+
 
 Mitigating/Preventing Failures
 
@@ -14,7 +14,7 @@ Upgrading Kernel/Xbox Dashboard Version
 
 Upgrading Hard Drive
 
-Converting to DevKit with RGLoader
+
 
 Unbanning your Console
 
@@ -23,3 +23,5 @@ Preventing Xbox Live Bans
 Removing the DVD Drive
 
 Xbox 360 Region Compatibility
+
+Extracting KeyVaults

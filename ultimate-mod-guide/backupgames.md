@@ -8,7 +8,7 @@ Extracting Games
 
 Converting NXE to GOD
 
-Converting GOD to ISO
+[Converting GOD to ISO](god2iso.md)
 
 Converting ISO to GOD
 
