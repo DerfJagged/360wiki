@@ -18,23 +18,26 @@
 | Identifying your console                          | Troubleshooting                                |
 | Choosing your Mod(s)                              | Remove Parental Lock                           |
 | Introduction to XeLL                              | Preparing a Windows 10 Development Environment |
-| JTAG/SMC                                          |                                                |
-| RGH                                               |                                                |
-| R-JTAG                                            |                                                |
-| R-JTOP                                            |                                                |
-| Disk Drive Flashing                               |                                                |
-| Disk Drive Emulator                               |                                                |
-| King Kong Shader Exploit                          |                                                |
-| What to install on Xbox 360                       |                                                |
+| JTAG/SMC                                          | Improving Cooling                              |
+| RGH                                               | Mitigating Failure Rates                       |
+| R-JTAG                                            | Disabling the eFuse Burning Circuit            |
+| R-JTOP                                            | Upgrading Kernel/Xbox Dashboard                |
+| Disk Drive Flashing                               | Upgrading Hard Drive                           |
+| Disk Drive Emulator                               | Converting to DevKit with RGLoader             |
+| King Kong Shader Exploit                          | Unbanning your Console                         |
+| What to Install                                   | Preventing Xbox Live Bans                      |
 | Playing on Xbox Live                              |                                                |
+| Installing Games, Apps, and DLC                   |                                                |
+| Custom Boot Animations                            |                                                |
+| Modding Saves                                     |                                                |
 |                                                   |                                                |
 
 ### Game Compatibility
 
-| Xbox 360             | xbox               |
-| -------------------- | ------------------ |
-| Region Compatibility | Compatibility List |
-|                      |                    |
+| Xbox 360             | xbox                       |
+| -------------------- | -------------------------- |
+| Region Compatibility | Compatibility List         |
+|                      | Hacked Compatibility Files |
 
 ### Software
 
@@ -49,12 +52,12 @@
 |                |                 |            |         |      |
 |                |                 |            |         |      |
 
-| fatx Tools | file transfer         | system link emulation | Media & Games  |      |
-| ---------- | --------------------- | --------------------- | -------------- | ---- |
-| Xplorer360 | Xbox 360 Neighborhood | LiNK                  | DNLA Sharing   |      |
-|            | FTP                   | XLink Kai             | Netflix        |      |
-|            | SMB                   |                       | ConnectX       |      |
-|            |                       |                       | iTunes Sharing |      |
+| fatx Tools | file transfer         | system link emulation | Media & Games                                |      |
+| ---------- | --------------------- | --------------------- | -------------------------------------------- | ---- |
+| Xplorer360 | Xbox 360 Neighborhood | LiNK                  | DNLA Sharing                                 |      |
+|            | FTP                   | XLink Kai             | Netflix                                      |      |
+|            | SMB                   |                       | Streaming games over a network with ConnectX |      |
+|            |                       |                       | iTunes Sharing                               |      |
 
 ### Emulation & Homebrew
 
