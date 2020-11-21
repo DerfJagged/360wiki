@@ -1,6 +1,6 @@
 # 360Wiki
 
-### [Ultimate Modding Guide](ultimate-mod-guide/index.md)	[Repair & Preservation](Preservation & Repair/index.md)
+### [Ultimate Modding Guide](ultimate-mod-guide/index.md)	[Repair & Preservation](preservation-repair/index.md)
 
 ### [Frequently Asked Questions](faq.md)	[Credits](credits.md)
 
