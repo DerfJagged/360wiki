@@ -1,10 +1,9 @@
 # 360Wiki
 
-### Ultimate Modding Guide	Repair & Preservation
-
-### Frequently Asked Questions	Credits
-
-### Xbox 360 History				Scene History
+|                        |                       |               |
+| ---------------------- | --------------------- | ------------- |
+| Ultimate Modding Guide | Repair & Preservation | FAQ           |
+| Credits                | Xbox 360 History      | Scene History |
 
 ### Core Knowledge
 
