@@ -20,12 +20,12 @@
 |                                                              |                                                         |                                                |                                     |
 |                                                              |                                                         |                                                |                                     |
 
-| fatx Tools    | file transfer         | system link emulation | Media & Games                                |      |
-| ------------- | --------------------- | --------------------- | -------------------------------------------- | ---- |
-| Xplorer360    | Xbox 360 Neighborhood | LiNK                  | DNLA Sharing                                 |      |
-| FatXplorer    | FTP                   | XLink Kai             | Netflix                                      |      |
-| Party Buffalo | SMB                   |                       | Streaming games over a network with ConnectX |      |
-|               |                       |                       | iTunes Sharing                               |      |
+| fatx Tools    | file transfer         | system link emulation | Media & Games                                | PAtchers            |
+| ------------- | --------------------- | --------------------- | -------------------------------------------- | ------------------- |
+| Xplorer360    | Xbox 360 Neighborhood | LiNK                  | DNLA Sharing                                 | X360GameHack        |
+| FatXplorer    | FTP                   | XLink Kai             | Netflix                                      | 360 Content Manager |
+| Party Buffalo | SMB                   |                       | Streaming games over a network with ConnectX |                     |
+|               |                       |                       | iTunes Sharing                               |                     |
 
 ### Emulation & Homebrew
 
