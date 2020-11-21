@@ -154,3 +154,24 @@ The SystemExtended partition introduced in the 2.0.12611.0  (Kinect-Dashboard) u
 ### System
 
 The System partition contains the contents of your Xbox 360 NAND chip. **The NAND contains important system files and it is dangerous to change anything if you don't know what you're doing. Broken NAND can lead to a bricked console!**
+
+# Extracting/Injecting Game Saves
+
+------
+
+This guide will walk you through managing your Xbox / Xbox 360 game  saves. Saves are stored on a per-profile per-game basis, and require  resigning to work on other profiles. 
+
+------
+
+## Xbox 360 Saves
+
+1. Connect your Xbox 360 hard drive to your PC with a transfer cable or plug in a flash drive that you've moved saves onto using the  Microsoft dashboard memory manager. 
+2. Navigate into Partition 3 > Content. This folder contains a folder for each profile on the system, and a public directory `0000000000000000` ([example structure here](https://www.reddit.com/r/360hacks/wiki/files#wiki_example_structure)). Open your profile, and a folder for each game will be inside. Right  click the desired game, and select "Extract..." if you wish to copy the  save to your PC, or right click the blank field and select "Insert  Folder" and insert your game save folder. It should be something like `373407DB`. 
+
+## Injecting Original Xbox Saves (Transfer Cable)
+
+Keep in mind that Burnout 3: Takedown, Dead or Alive Ultimate (1 and  2), Dead or Alive Xtreme Beach Volleyball, Forza Motorsport, Half-Life  2, Ninja Gaiden, Ninja Gaiden Black and Tron 2.0: Killer App saves are  EEPROM locked and therefore you cannot use them on an Xbox 360.
+
+1. Connect your Xbox 360 hard drive to your PC with a transfer cable. 
+2. Open Xplorer360, select Drive > "Open hard drive or  memcard...", and expand Partition 3 > Compatability > Xbox 1 >  UDATA. 
+3. Right click the empty field and select "Insert Folder" and choose your original Xbox game save folder. It should be something like `5655002A`. 
