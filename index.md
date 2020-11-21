@@ -7,18 +7,18 @@
 
 
 
-### Software
+### [Software](Software/index.md)
 
-| Dashboards     | debuggers       | Utilities  | Apps    |      |
-| -------------- | --------------- | ---------- | ------- | ---- |
-| Aurora         | XCE Tool        | XeXmenu    | Netflix |      |
-| Freestyle Dash | Peek Poker      | DashLaunch |         |      |
-| NeXGeN         | Remote Debugger | XM360      |         |      |
-| XeXDash        |                 |            |         |      |
-| IngeniouX      |                 |            |         |      |
-|                |                 |            |         |      |
-|                |                 |            |         |      |
-|                |                 |            |         |      |
+| [DASHBOARDS](Software/Dashboards/index.md)    | [DEBUGGERS](Software/Debuggers/index.md) | [UTILITIES](Software/Utilities/index.md) | [APPS](Software/Apps/index.md) |      |
+| --------------------------------------------- | ---------------------------------------- | ---------------------------------------- | ------------------------------ | ---- |
+| [Aurora](Software/Dashboards/aurora.md)       | XCE Tool                                 | XeXmenu                                  | Netflix                        |      |
+| [Freestyle Dash](Software/Dashboards/FSD.md)  | Peek Poker                               | DashLaunch                               |                                |      |
+| [NeXGeN](Software/Dashboards/NeXGeN.md)       | Remote Debugger                          | XM360                                    |                                |      |
+| [XeXDash](Software/Dashboards/XeXDash.md)     |                                          |                                          |                                |      |
+| [IngeniouX](Software/Dashboards/IngeniouX.md) |                                          |                                          |                                |      |
+|                                               |                                          |                                          |                                |      |
+|                                               |                                          |                                          |                                |      |
+|                                               |                                          |                                          |                                |      |
 
 | fatx Tools | file transfer         | system link emulation | Media & Games                                |      |
 | ---------- | --------------------- | --------------------- | -------------------------------------------- | ---- |
