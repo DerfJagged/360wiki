@@ -27,19 +27,13 @@
 | King Kong Shader Exploit                          | Unbanning your Console                         |
 | What to Install                                   | Preventing Xbox Live Bans                      |
 | Playing on Xbox Live                              | Removing the DVD Drive                         |
-| Installing Games, Apps, and DLC                   |                                                |
-| Custom Boot Animations                            |                                                |
+| Installing Games, Apps, and DLC                   | Xbox 360 Region Compatibility                  |
+| Custom Boot Animations                            | XBOX Compatibility List                        |
 | Modding Saves                                     |                                                |
-| Filesystem Basics                                 |                                                |
+| Working with Files                                |                                                |
 | Backing up Games                                  |                                                |
 | Installing Linux                                  |                                                |
-
-### Game Compatibility
-
-| Xbox 360             | xbox                       |
-| -------------------- | -------------------------- |
-| Region Compatibility | Compatibility List         |
-|                      | Hacked Compatibility Files |
+| Hacked Compatibility Files                        |                                                |
 
 ### Software
 
