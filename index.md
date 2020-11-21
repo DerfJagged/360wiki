@@ -26,11 +26,13 @@
 | Disk Drive Emulator                               | Converting to DevKit with RGLoader             |
 | King Kong Shader Exploit                          | Unbanning your Console                         |
 | What to Install                                   | Preventing Xbox Live Bans                      |
-| Playing on Xbox Live                              |                                                |
+| Playing on Xbox Live                              | Removing the DVD Drive                         |
 | Installing Games, Apps, and DLC                   |                                                |
 | Custom Boot Animations                            |                                                |
 | Modding Saves                                     |                                                |
-|                                                   |                                                |
+| Filesystem Basics                                 |                                                |
+| Backing up Games                                  |                                                |
+| Installing Linux                                  |                                                |
 
 ### Game Compatibility
 
