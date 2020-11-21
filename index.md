@@ -1,34 +1,10 @@
 # 360Wiki
 
-|                                                       |                       |               |
-| ----------------------------------------------------- | --------------------- | ------------- |
-| [Ultimate Modding Guide](Ultimate Mod Guide/index.md) | Repair & Preservation | FAQ           |
-| Credits                                               | Xbox 360 History      | Scene History |
+### [Ultimate Modding Guide](Ultimate Mod Guide/index.md)	[Repair & Preservation](Preservation & Repair/index.md)
 
-### Core Knowledge
+### [Frequently Asked Questions](faq.md)	[Credits](credits.md)
 
-|                                 |                                                |
-| ------------------------------- | ---------------------------------------------- |
-| Why mod your console?           | Error Codes                                    |
-| Identifying your console        | Troubleshooting                                |
-| Choosing your Mod(s)            | Remove Parental Lock                           |
-| Introduction to XeLL            | Preparing a Windows 10 Development Environment |
-| JTAG/SMC                        | Improving Cooling                              |
-| RGH                             | Mitigating Failure Rates                       |
-| R-JTAG                          | Disabling the eFuse Burning Circuit            |
-| R-JTOP                          | Upgrading Kernel/Xbox Dashboard                |
-| Disk Drive Flashing             | Upgrading Hard Drive                           |
-| Disk Drive Emulator             | Converting to DevKit with RGLoader             |
-| King Kong Shader Exploit        | Unbanning your Console                         |
-| What to Install                 | Preventing Xbox Live Bans                      |
-| Playing on Xbox Live            | Removing the DVD Drive                         |
-| Installing Games, Apps, and DLC | Xbox 360 Region Compatibility                  |
-| Custom Boot Animations          | XBOX Compatibility List                        |
-| Modding Saves                   |                                                |
-| Working with Files              |                                                |
-| Backing up Games                |                                                |
-| Installing Linux                |                                                |
-| Hacked Compatibility Files      |                                                |
+### [Xbox 360 History](xbox360history.md)				[Scene History](scenehistory.md)
 
 ### Software
 
