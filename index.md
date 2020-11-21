@@ -1,9 +1,9 @@
 # 360Wiki
 
-| [Ultimate Modding Guide](ultimate-mod-guide/index.md) | [Repair & Preservation](preservation-repair/index.md)        |      |
-| ----------------------------------------------------- | ------------------------------------------------------------ | ---- |
-| [Frequently Asked Questions](faq.md)                  | [Credits](credits.md)                                        |      |
-| [Xbox 360 & Scene History](xbox360history.md)         | [Disabling Driver Signature Enforcement in Windows 10](disabledriversigenforcement.md) |      |
+| [Ultimate Modding Guide](ultimate-mod-guide/index.md) | [Repair & Preservation](preservation-repair/index.md)        | [How to Contribute](howtocontribute.md) |
+| ----------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------- |
+| [Frequently Asked Questions](faq.md)                  | [Credits](credits.md)                                        | [Wiki Standards](wikistandards.md)      |
+| [Xbox 360 & Scene History](xbox360history.md)         | [Disabling Driver Signature Enforcement in Windows 10](disabledriversigenforcement.md) | [Page Template](pagetemplate.md)        |
 
 ### [Software](Software/index.md)
 
