@@ -1,9 +1,9 @@
 # 360Wiki
 
-|                                                           |                       |               |
-| --------------------------------------------------------- | --------------------- | ------------- |
-| [Ultimate Modding Guide](Ultimate Modding Guide/index.md) | Repair & Preservation | FAQ           |
-| Credits                                                   | Xbox 360 History      | Scene History |
+|                                                       |                       |               |
+| ----------------------------------------------------- | --------------------- | ------------- |
+| [Ultimate Modding Guide](Ultimate Mod Guide/index.md) | Repair & Preservation | FAQ           |
+| Credits                                               | Xbox 360 History      | Scene History |
 
 ### Core Knowledge
 
