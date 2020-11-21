@@ -10,7 +10,7 @@ King Kong Shader Exploit
 
 ### NAND Mods
 
-These are where the system software stored in the NAND is modified to allow the running of unsigned code. This includes [RGH]()/[JTAG/SMC](JTAG/SMC)/[R-JTAG]()/[R-JTOP]().
+These are where the system software stored in the NAND is modified to allow the running of unsigned code. This includes [RGH]()/[JTAG/SMC](jtag-smc/index.md)/[R-JTAG]()/[R-JTOP]().
 
 | Pros                                                         | Cons                    |
 | ------------------------------------------------------------ | ----------------------- |

@@ -54,4 +54,5 @@
 | ---------- | --------- | ---------------------------- | ------------------------------------------------------------ |
 |            |           | [eFuses](hardware/efuses.md) | [Converting to DevKit with RGLoader](development/convertdevkitrgloader.md) |
 |            |           |                              | [Preparing a Xbox 360 Development Environment in Windows 10](development/win10devenv.md) |
+|            |           |                              | [Installing Linux](development/installlinux.md)              |
 

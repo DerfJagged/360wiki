@@ -4,7 +4,7 @@ Ripping Games on PC
 
 Burning Games
 
-Extracting Games
+[Extracting Games](isoextract.md)
 
 Converting NXE to GOD
 
