@@ -50,10 +50,10 @@
 
 ### Technical Info
 
-| Filesystem                    | Xbox Live | Hardware                     | Development                                                  |
-| ----------------------------- | --------- | ---------------------------- | ------------------------------------------------------------ |
-| [*XDG3*](techinfo/fs/xdg3.md) |           | [eFuses](hardware/efuses.md) | [Converting to DevKit with RGLoader](development/convertdevkitrgloader.md) |
-|                               |           |                              | [Preparing a Xbox 360 Development Environment in Windows 10](development/win10devenv.md) |
-|                               |           |                              | [Installing Linux](development/installlinux.md)              |
-|                               |           |                              | [Networking](development/networking/index.md)                |
+| Filesystem                  | Xbox Live | Hardware                     | Development                                                  |
+| --------------------------- | --------- | ---------------------------- | ------------------------------------------------------------ |
+| [XDG3](techinfo/fs/xdg3.md) |           | [eFuses](hardware/efuses.md) | [Converting to DevKit with RGLoader](development/convertdevkitrgloader.md) |
+|                             |           |                              | [Preparing a Xbox 360 Development Environment in Windows 10](development/win10devenv.md) |
+|                             |           |                              | [Installing Linux](development/installlinux.md)              |
+|                             |           |                              | [Networking](development/networking/index.md)                |
 
