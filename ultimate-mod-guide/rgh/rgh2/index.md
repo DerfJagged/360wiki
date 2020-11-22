@@ -21,3 +21,5 @@
 ### [CoolRunner 3 Lite (Corona)](https://i.imgur.com/ag857Vj.jpg)
 
 ### [DGX v1.0S](http://xecuter.com/dgx/dgx_wire_install_v2.jpg)
+
+RGH 2 glitches before eFuse check

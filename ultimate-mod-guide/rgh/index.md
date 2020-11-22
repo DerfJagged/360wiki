@@ -64,3 +64,9 @@ There are four different methods to reading your NAND chip: Nand-X,  JR Programm
    - You can install XeXMenu to your hard drive by going to Console  Settings > Storage, and copying it from your flash drive to the hard  drive.
 
 From here, you can install any homebrew or mods that you want. See [this page](https://www.reddit.com/r/360hacks/wiki/recommendations) for a list of recommended modifications and applications to install.
+
+- Recommended chips for RGH
+  - Xenon/Zephyr/Trinity/Corona - Ace v3
+  - Falcon - Revc or Matrixx
+  - Jasper/Kronos - Revc
+

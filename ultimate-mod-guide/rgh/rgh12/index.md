@@ -17,3 +17,5 @@
 ### [X360 ACE](https://web.archive.org/web/20161015093417im_/https://s4.postimg.org/gtnd5nknx/x360acergh12phatinstalldiagram.png)
 
 - Note that the X360 ACE v3 needs a 22K resistor soldered on the PLL line. It needs removal of a diode on the chip itself.
+
+RGH 1.2 uses PLL instead of IC2 to slow clock
