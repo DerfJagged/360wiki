@@ -18,7 +18,7 @@
 |                                                              |                                                         |                                                             |                                     |
 |                                                              |                                                         |                                                             |                                     |
 
-| fatx Tools    | file transfer                         | system link emulation | Media & Games                                                | PAtchers            |
+| FATX Tools    | File Transfer                         | System Link Emulation | Media & Games                                                | PAtchers            |
 | ------------- | ------------------------------------- | --------------------- | ------------------------------------------------------------ | ------------------- |
 | Xplorer360    | Xbox 360 Neighborhood                 | LiNK                  | DNLA Sharing                                                 | X360GameHack        |
 | FatXplorer    | [FTP](Software/FileTransfer/index.md) | XLink Kai             | Netflix                                                      | 360 Content Manager |
