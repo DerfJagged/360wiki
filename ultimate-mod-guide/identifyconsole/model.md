@@ -70,3 +70,5 @@ This model has a blue case with cyan side panels and a blue controller with cyan
 ## Credits
 
 Microsoft Corporation for Xbox 360 hardware shown.
+
+Amazon for pictures.
