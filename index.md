@@ -7,7 +7,7 @@
 
 ### [Software](Software/index.md)
 
-| [DASHBOARDS](Software/Dashboards/index.md)                   | [DEBUGGERS](Software/Debuggers/index.md)                | [UTILITIES](Software/Utilities/index.md)                    | [APPS](Software/Apps/index.md)      |
+| [Dashboards](Software/Dashboards/index.md)                   | [Debuggers](Software/Debuggers/index.md)                | [Utilities](Software/Utilities/index.md)                    | [Apps](Software/Apps/index.md)      |
 | ------------------------------------------------------------ | ------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------- |
 | [Aurora](Software/Dashboards/aurora.md)                      | [XCE Tool](Software/Debuggers/XCETool.md)               | [XeXmenu](Software/Utilities/XeXmenu.md)                    | [Netflix](Software/Apps/Netflix.md) |
 | [Freestyle Dash](Software/Dashboards/FSD.md)                 | [Peek Poker](Software/Debuggers/PeekPoker.md)           | [DashLaunch](Software/Utilities/DashLaunch.md)              |                                     |
@@ -18,12 +18,12 @@
 |                                                              |                                                         |                                                             |                                     |
 |                                                              |                                                         |                                                             |                                     |
 
-| FATX Tools    | File Transfer                         | System Link Emulation | Media & Games                                                | PAtchers            |
-| ------------- | ------------------------------------- | --------------------- | ------------------------------------------------------------ | ------------------- |
-| Xplorer360    | Xbox 360 Neighborhood                 | LiNK                  | DNLA Sharing                                                 | X360GameHack        |
-| FatXplorer    | [FTP](Software/FileTransfer/index.md) | XLink Kai             | Netflix                                                      | 360 Content Manager |
-| Party Buffalo | SMB                                   |                       | [Streaming games over a network with ConnectX](Software/Utilities/connectx.md) |                     |
-|               |                                       |                       | [iTunes Sharing](Software/Mac/connect360.md)                 |                     |
+| [FATX Tools](FATXTools/index.md)           | Remote File Transfer                | System Link Emulation | Media & Games                                                | PAtchers            |
+| ------------------------------------------ | ----------------------------------- | --------------------- | ------------------------------------------------------------ | ------------------- |
+| [Xplorer360](FATXTools/Xplorer360.md)      | Xbox 360 Neighborhood               | LiNK                  | DNLA Sharing                                                 | X360GameHack        |
+| [FatXplorer](FATXTools/FatXplorer.md)      | [FTP](Software/FileTransfer/ftp.md) | XLink Kai             | Netflix                                                      | 360 Content Manager |
+| [Party Buffalo](FATXTools/PartyBuffalo.md) | SMB                                 |                       | [Streaming games over a network with ConnectX](Software/Utilities/connectx.md) |                     |
+|                                            |                                     |                       | [iTunes Sharing](Software/Mac/connect360.md)                 |                     |
 
 ### Emulation & Homebrew
 
@@ -50,7 +50,7 @@
 
 ### Technical Info
 
-| Filesystem                    | xbox live | hardware                     | Development                                                  |
+| Filesystem                    | Xbox Live | Hardware                     | Development                                                  |
 | ----------------------------- | --------- | ---------------------------- | ------------------------------------------------------------ |
 | [*XDG3*](techinfo/fs/xdg3.md) |           | [eFuses](hardware/efuses.md) | [Converting to DevKit with RGLoader](development/convertdevkitrgloader.md) |
 |                               |           |                              | [Preparing a Xbox 360 Development Environment in Windows 10](development/win10devenv.md) |
