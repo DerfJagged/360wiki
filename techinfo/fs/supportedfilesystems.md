@@ -1,0 +1,1 @@
+NTFS and exfat not supported on Xbox 360
