@@ -22,7 +22,7 @@ To do the 12V fan mod, solder a wire from the "Fan (CPU)" point to  the ground p
 
 A significant airflow efficiency improvement can be made to the CPU  heatsink by covering the top of it with aluminum foil and keeping it  anchored on by folding slightly over the edges or using electric tape to anchor the foil on the shroud. Do not block the open end of the heat  sink. The same can be done for the GPU, however, due to it being shorter and having less air intake than the CPU heatsink, you should only cover about half of the top of the heatsink so that it can pull in more air.
 
-You can replace the GPU heatsink with a CPU heatsink and cut a hole  in the fan shroud so that you can use foil as part of the shroud to pull air from the entire height of the heat sink. With a second CPU  heatsink, there will not be any room for a DVD drive, so this would be  best on a RGH/JTAG console or on a system with an ODE. You may also want to see [this page](https://www.reddit.com/r/360hacks/wiki/nodvd) for your options to stop the power LED from flashing indefinitely. 
+You can replace the GPU heatsink with a CPU heatsink and cut a hole  in the fan shroud so that you can use foil as part of the shroud to pull air from the entire height of the heat sink. With a second CPU  heatsink, there will not be any room for a DVD drive, so this would be  best on a RGH/JTAG console or on a system with an ODE. You may also want to see [this page](removeodd.md) for your options to stop the power LED from flashing indefinitely. 
 
 ## Adding Extra Fan(s)
 
@@ -48,4 +48,4 @@ While custom dashboards usually have their own fan options, it's best to set you
 
 ## Setting Fan Thresholds (JTAG/RGH)
 
-By default, the Xbox 360 will automatically shut off when any  temperature hits 100°C. This value can be changed by making an image  with XeBuild in JRunner and installing it via USB and [XeLL](https://www.reddit.com/r/360hacks/wiki/xell#wiki_flashing_a_nand_image). 
+By default, the Xbox 360 will automatically shut off when any  temperature hits 100°C. This value can be changed by making an image  with XeBuild in JRunner and installing it via USB and [XeLL](../ultimate-mod-guide/xell.md). 

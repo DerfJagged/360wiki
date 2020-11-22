@@ -13,3 +13,4 @@ Disable the DVD drive in your XeBuild image. If you ever want to  replace the di
 ## Stopping Blinking LED (Stock Console)
 
 Following [this diagram](https://i.imgur.com/OfXfd5F.png), bridge pin 4 (tray status) and pin 6 (3.3V). This will stop the blinking of the power LED.
+

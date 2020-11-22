@@ -4,9 +4,7 @@
 
 A. This wiki is the wiki to outwiki all wikis. The features provided by GitHub allow this to be so versatile, open, and community-built wiki for the Xbox scene. And **THAT**'s cool.
 
- Here you'll find most of the info you'll need to start using homebrew on your Xbox 360. A list of [definitions](https://www.reddit.com/r/360hacks/wiki/faq#wiki_definitions) can be found at the bottom of this post. If a question isn't here that  you feel should be, please message one of the moderators.
-
-[**Click here to view the rest of the 360 Hacks Wiki!**](https://www.reddit.com/r/360hacks/wiki)
+Here you'll find most of the info you'll need to start using homebrew on your Xbox 360. If a question isn't here that  you feel should be, please submit an issue.
 
 ------
 
@@ -17,25 +15,25 @@ A. This wiki is the wiki to outwiki all wikis. The features provided by GitHub a
 A. The intent of an RGH/JTAG is to allow execution of homebrew software on the Xbox 360. Custom firmware will allow you to:
 
 - Play backups of Xbox 360 / Xbox / DVDs natively and region free, even on non backwards-compatible models.
-- Emulate retro games with RetroArch or [stand-alone emulators](https://www.reddit.com/r/360hacks/wiki/emulators).
-- [Rip Xbox 360 / Xbox / DVD discs](https://www.reddit.com/r/360hacks/wiki/ripping) to your hard drive.
-- [Mod games offline or online](https://www.reddit.com/r/360hacks/wiki/modding).
-- Convert your console into to a developer console (devkit).
-- Play games stored on an external drive, or even games stored on [a SMB enabled device on your network](https://www.reddit.com/r/360hacks/wiki/connectx).
-- [Unban your console](https://www.reddit.com/r/360hacks/wiki/bans).
-- Change the [boot up animation and sound](https://www.reddit.com/r/360hacks/wiki/bootanim).
-- [Use Linux](https://www.reddit.com/r/360hacks/wiki/linux).
+- Emulate retro games with [RetroArch](emulators-ports/retroarch.md) or [stand-alone emulators](emulators-ports/index,md).
+- [Rip Xbox 360 / Xbox / DVD discs](ultimate-mod-guide/backupgames.md) to your hard drive.
+- [Mod games offline or online](ultimate-mod-guide/gamemodding/index.md).
+- [Convert your console into to a developer console (devkit).](development/convertdevkitrgloader.md)
+- Play games stored on an external drive, or even games stored on [a SMB enabled device on your network](Software/Utilities/connectx.md).
+- [Unban your console](preservation-repair/Unbanconsole.md).
+- Change the [boot up animation and sound](ultimate-mod-guide/custombootanims.md).
+- [Use Linux](development/installlinux.md).
 - Create and use cheats for games
 - Put a completely new DVD drive into your console with your  motherboard without having to take the drive apart (if you have the DVD  key).
-- [Install homebrew games and apps](https://www.reddit.com/r/360hacks/wiki/installing_apps).
+- [Install homebrew games and apps](ultimate-mod-guide/gamebackups/installgamesappsdlc.md).
 
 **Q. Does it matter what model of Xbox 360 I have, or can all models be exploited?**
 
-A. All models can be exploited in one way or another *except* the latest version (Winchester motherboards). You can find more information [here](https://www.reddit.com/r/360hacks/wiki/how_to_hack).
+A. All models can be exploited in one way or another *except* the latest version (Winchester motherboards). You can find more information [here](ultimate-mod-guide/identifyconsole/motherboard.md).
 
 **Q. Does it matter what dashboard version I'm on?**
 
-A. No, you can hack any dashboard, though earlier dashboards may be  able to use easier / more reliable hacks. You can find more information [here](https://www.reddit.com/r/360hacks/wiki/how_to_hack).
+A. No, you can hack any dashboard, though earlier dashboards may be  able to use easier / more reliable hacks. You can find more information [here](ultimate-mod-guide/identifyconsole/dashboard.md).
 
 **Q. Can you hack a console without soldering?**
 
@@ -55,7 +53,7 @@ A. Unless you pay someone else to do it for you, no.
 
 **Q. What should I install on my RGH/JTAG?**
 
-A. See [this list](https://www.reddit.com/r/360hacks/wiki/recommendations) of recommended software to install.
+A. See [this list](Software/index.md) of recommended software to install.
 
 **Q. Can I play online safely?**
 
@@ -67,15 +65,15 @@ A. Yes. If you install a TX DemoN, Squirt Dual NAND, Matrix Trident,  or "NAND S
 
 **Q. Can I update my games without going on XBL?**
 
-A. Yes. Aurora can download updates from XboxUnity, which hosts game  updates. They can also be downloaded from other sources and applied  manually t
+A. Yes. Aurora can download updates from XboxUnity, which hosts game  updates. They can also be downloaded from other sources and applied manually as well.
 
 **Q. Can I use the Internet or apps (such as Netflix) on my RGH/JTAG without connecting to XBL?**
 
-A. No. All apps, other than [Netflix](https://www.reddit.com/r/360hacks/wiki/netflix), require an Xbox Live connection.
+A. No. All apps, other than [Netflix](Software/Apps/Netflix.md), require an Xbox Live connection.
 
 **Q. Do I need my DVD drive connected to boot the Xbox?**
 
-A. No, it will boot up properly without a DVD drive, however, the power button LEDs will blink unless you [bridge pins 4 and 6 on the motherboard connector](http://i.imgur.com/pddYqAZ.png) or disable the DVD drive in a freeboot image.
+A. No, it will boot up properly without a DVD drive, however, the power button LEDs will blink unless you [apply a fix](preservation-repair/removeodd.md).
 
 **Q. What is the "Kronos/Kronus" model Xbox 360?**
 
@@ -83,15 +81,15 @@ A. The Kronos is a revision of the Jasper motherboard which includes a different
 
 **Q. What are the directories on my Xbox 360?**
 
-A. See [this page](https://www.reddit.com/r/360hacks/wiki/files) for information on what each directory contains.
+A. See [this page](ultimate-mod-guide/filesystembasics.md) for information on what each directory contains.
 
 **Q. What is an ODE (XK3Y / Wasabi360 / Boxzii / X360DOCK)?**
 
-A. An Optical Drive Emulator is a device that allows you to run Xbox  and Xbox 360 game backups on an Xbox 360, without requiring an RGH/JTAG. Like with [drive flashing](https://www.reddit.com/r/360hacks/wiki/drive_flashing), all phat consoles support ODEs, and all but the latest model (Winchester) slim consoles can have an ODE. See [this page](https://www.reddit.com/r/360hacks/wiki/how_to_hack) for more details on model compatibility.
+A. An Optical Drive Emulator is a device that allows you to run Xbox  and Xbox 360 game backups on an Xbox 360, without requiring an RGH/JTAG. Like with [drive flashing](ultimate-mod-guide/oddflashing.md), all phat consoles support ODEs, and all but the latest model (Winchester) slim consoles can have an ODE. See [this page](ultimate-mod-guide/identifyconsole/motherboard.md) for more details on model compatibility.
 
 **Q. Where can I find information about XGD3 games?**
 
-A. [This page](https://www.reddit.com/r/360hacks/wiki/xgd3) lists all of the XGD3 games and compatible DVD burners.
+A. [This page](techinfo/fs/xdg3.md) lists all of the XGD3 games and compatible DVD burners.
 
 **Q. Can RGH/JTAG exploited consoles play games burned to a DVD?**
 
@@ -111,7 +109,7 @@ A. RGH1/R-JTAG/R-JTOP does work, but is unreliable due to the CPU having issues 
 
 **Q. What is RROD?**
 
-A. In general, Red Ring of Death (RROD) is caused by the CPU/GPU/RAM  not making proper contact with the motherboard or are defective. One  theory is that due to the solder balls being lead free and - partially  due to cheap thermal paste - they get too hot and stress crack and cause an improper connection. This theory is demonstrated in [a write-up by bunnie](https://www.bunniestudios.com/blog/?p=223). There can be many different causes of a RROD, as documented on [our error codes page](https://www.reddit.com/r/360hacks/wiki/error_codes), and sometimes the part in question may need complete replacement.
+A. In general, Red Ring of Death (RROD) is caused by the CPU/GPU/RAM  not making proper contact with the motherboard or are defective. One  theory is that due to the solder balls being lead free and - partially  due to cheap thermal paste - they get too hot and stress crack and cause an improper connection. This theory is demonstrated in [a write-up by bunnie](https://www.bunniestudios.com/blog/?p=223). There can be many different causes of a RROD, as documented on [our error codes page](preservation-repair/errorcodes/index.md), and sometimes the part in question may need complete replacement.
 
 **Q. Should I do the towel trick / bolt mod to fix RROD?**
 
@@ -119,7 +117,7 @@ A. **NO**. The towel trick works by suffocating your  console to heat it up enou
 
 **Q. What is a reball/reflow?**
 
-A. Reballing and reflowing are home remedies for fixing RROD.  Reflowing is considered a temporary fix, which involves heating up the  affected component to re-melt all of the solder balls at once so each  one flows back into place. If you apply [cooling improvements](https://www.reddit.com/r/360hacks/wiki/improve_cooling) and monitor temperatures, this can be a more permanent fix. Reballing,  on the other hand, is a permanent fix which replaces all of the solder  balls with leaded solder. Reballing requires a professional rework  station to melt all of the solder balls, remove the affected component,  place new solder balls down, and reattach the component. However,  sometimes the component itself (CPU/GPU/RAM) is faulty and a reball will not permanently fix it.
+A. Reballing and reflowing are home remedies for fixing RROD.  Reflowing is considered a temporary fix, which involves heating up the  affected component to re-melt all of the solder balls at once so each  one flows back into place. If you apply [cooling improvements](preservation-repair/improvecooling.md) and monitor temperatures, this can be a more permanent fix. Reballing,  on the other hand, is a permanent fix which replaces all of the solder  balls with leaded solder. Reballing requires a professional rework  station to melt all of the solder balls, remove the affected component,  place new solder balls down, and reattach the component. However,  sometimes the component itself (CPU/GPU/RAM) is faulty and a reball will not permanently fix it.
 
 **Q. What is a Lamprey? Can they make devkits?**
 

@@ -90,7 +90,7 @@ This page outlines major points in the Xbox 360's history, including  both offic
 
 **December 27th**: Xbox 360 exclusive *Crackdown* announced to contain free Halo 3 beta invitation.
 
-**December 30th**: The hypervisor bug is demonstrated at the 23rd Chaos Communication Congress, teasing the ability to load  Linux by booting up the game *Peter Jackson's: King Kong* and  then displaying the Xbox 360 logo, a Mac logo, and Tux (the Linux  Penguin) with the words "Coming soon...". This is the first  demonstration of the "KK Exploit". A guide for how to reproduce this  yourself can be found [here](https://www.reddit.com/r/360hacks/wiki/king_kong_exploit).
+**December 30th**: The hypervisor bug is demonstrated at the 23rd Chaos Communication Congress, teasing the ability to load  Linux by booting up the game *Peter Jackson's: King Kong* and  then displaying the Xbox 360 logo, a Mac logo, and Tux (the Linux  Penguin) with the words "Coming soon...". This is the first  demonstration of the "KK Exploit". A guide for how to reproduce this  yourself can be found [here](ultimate-mod-guide/kkexploit.md).
 
 ## 2007
 

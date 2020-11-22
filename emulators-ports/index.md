@@ -2,9 +2,9 @@
 
 ------
 
-While [RetroArch](https://www.reddit.com/r/360hacks/wiki/retroarch) covers most bases when it comes to emulation, you have the option to  install standalone emulators listed below. There are two main types of  emulators: XEX and ELF emulators. Keep in mind that ones that sound "too good to be true" likely will run very poorly on the system.
+While [RetroArch](emulators-ports/retroarch.md) covers most bases when it comes to emulation, you have the option to  install standalone emulators listed below. There are two main types of  emulators: XEX and ELF emulators. Keep in mind that ones that sound "too good to be true" likely will run very poorly on the system.
 
-- For information regarding the Xbox emulator, see [this page](https://reddit.com/r/360hacks/wiki/original_xbox).
+- For information regarding the Xbox emulator, see [this page](ultimate-mod-guide/xboxemu/index.md).
 
 ------
 
@@ -18,7 +18,7 @@ ELF emulators must be launched from within Xell. To do this, place  the emulator
 
 ## List of Emulators
 
-- [Original Xbox (Official Emulator)](https://www.reddit.com/r/360hacks/wiki/original_xbox)
+- [Original Xbox (Official Emulator)](ultimate-mod-guide/xboxemu/index.md)
 - [3D0X](http://www.360-hq.com/xbox360-homebrew-232-3dox.html) (3DO)
 - [Amiga360 (Amiga)](https://github.com/lantus/Amiga360)
 - [CPx3 (Capcom Play System 3)](http://www.eurasia.nu/modules.php?name=Downloads&d_op=viewdownloaddetails&lid=6032&ttitle=CPX3_2009-04-09)

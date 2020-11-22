@@ -216,7 +216,7 @@
 
 **iLegend** - For teaching the ways of USB modding.
 
-The [360Hacks](https://www.reddit.com/r/360hacks) commmunity - For all your contributions to the public domain.
+**The [360Hacks](https://www.reddit.com/r/360hacks) commmunity** - For all your contributions to the public domain.
 
 **TehCactus**, **Derf Jagged**, **VisualUsual**, **WonderMiquel**, **DarkGabbz**, **Forlorn Penguin**, **Federal_Refrigerator**, **ClickClick 5**, **DieMitchell**, **BlueSn00w**, **Octal450**, **TheOneWhoKnocks2016**, and **AnarchyAbsence** for their direct or indirect contributions to the 360Wiki.
 
