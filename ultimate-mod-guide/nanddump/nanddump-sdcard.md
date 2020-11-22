@@ -2,7 +2,7 @@
 
 ------
 
-This guide will walk you through obtaining NAND dumps, creating a  patched dump, and writing it to the console using a SD card read/write  kit. **This is the only option and is only applicable to Corona Phison/eMMC (V2/V4/V6) motherboards.**
+This guide will walk you through obtaining NAND dumps, creating a  patched dump, and writing it to the console using a SD card read/write  kit. **This is the only option for and is only applicable to Corona Phison/eMMC (V2/V4/V6) motherboards.** 
 
 ------
 
