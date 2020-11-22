@@ -1,6 +1,18 @@
-[Why Mod your console](whymod.md)
+## Why Mod your console
 
-[Identifying your console](identifyconsole.md)
+
+
+## Identifying your console
+
+Identifying your Model
+
+Identifying your Motherboard
+
+Identifying your Disk Drive
+
+Identifying your Dashboard
+
+
 
 [Choosing your mods](choosemods.md)
 

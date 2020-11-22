@@ -27,6 +27,14 @@ These are where the system software stored in the NAND is modified to allow the 
 | Allows you to swap DVD drives without having to disassemble the drive(if you have the DVD drive's DVD key) |                         |
 | Allows you to install homebrew games and apps                |                         |
 
+If you want full system access, see the [exploit chart](https://i.imgur.com/mQHFumb.png) to determine what the best hack for your model is if there are multiple options in the box choose the left one.
+
+If you want full system access, see the [exploit chart](https://i.imgur.com/mQHFumb.png) to determine what the best hack for your model is.
+
+If you want full system access, see the [exploit chart](https://i.imgur.com/mQHFumb.png) to determine what the best hack for your model is.
+
+
+
 ### ODD Mods
 
 These are where a optical disk drive has been flashed to read burned disks.

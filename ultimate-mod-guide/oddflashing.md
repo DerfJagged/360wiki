@@ -87,3 +87,14 @@ A video demonstration for flashing [every phat Xbox 360 drive](https://youtu.be/
 - ATI SB400 (1 member said not, another flashed a Liteon 7 series).
 - EVGA X58 with Intel ICH10 (flashed Lite-On and BenQ)
 - Intel 82801 G ICH7 (flashed BenQ)
+
+
+
+If you just want to flash your drive, you can flash any phat model and dashboard version following [this guide](https://www.se7ensins.com/forums/threads/█▬►►nooberts-flashing-guide-phat-slim-burner-max-payload-burn-games◄◄▬█.1150969/).
+
+If you just want to flash your drive, you can do so by following [this guide](https://www.se7ensins.com/forums/threads/█▬►►nooberts-flashing-guide-phat-slim-burner-max-payload-burn-games◄◄▬█.1150969/).
+
+
+
+If you just want to flash your drive, you can do so by following [this guide](https://www.se7ensins.com/forums/threads/█▬►►nooberts-flashing-guide-phat-slim-burner-max-payload-burn-games◄◄▬█.1150969/).
+

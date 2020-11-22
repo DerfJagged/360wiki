@@ -89,3 +89,5 @@ You should now be able to turn on your Xbox 360 and boot into XeLL  and see your
    - You can install XeXMenu to your hard drive by going to Console  Settings > Storage, and copying it from your flash drive to the hard  drive.
 
 From here, you can install any homebrew or mods that you want. See [this page](https://www.reddit.com/r/360hacks/wiki/recommendations) for a list of recommended modifications and applications to install.
+
+If you are on dashboard 7371: If the console manufacture date on the back is BEFORE 6-1-2009 then it is JTAGable, otherwise it is **not**. If you want to be sure that it is exploitable, a NAND dump will be able to tell you what CB (bootloader) version your console is on, as the CBs on some consoles running 7371 differ. The following [chart](http://i.imgur.com/On7Sazo.jpg) details which bootloaders are exploitable by the JTAG/SMC exploit, so  make sure this matches if you wish to double-check via NAND dump.

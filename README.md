@@ -16,3 +16,10 @@ Page standards:
 Credits and citations are required.
 
 All images must be saved locally in the media folder, all videos must be hyperlinks to YouTube.
+
+
+
+Notes are referenced as {#}
+
+Citations are referenced as [#]
+
