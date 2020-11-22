@@ -12,7 +12,7 @@ This page outlines major points in the Xbox 360's history, including  both offic
 
 **March 24th**: Microsoft reveals a games development  platform, XNA (which stands for "XNA's Not Acronymed") for the  unannounced Xbox successor.
 
-**May 12th**: The Xbox 360 is unveiled on MTV,  confirming leaked data including the name, the logo, the wireless  controllers, the system specs, and the console design. Original Xbox  games are demonstrated on the system, confirming backwards  compatibility. The official Xbox 360 website, Xbox360.com, opens its  doors. 
+**May 12th**: The Xbox 360 is unveiled on MTV,  confirming leaked data including the name, the logo, the wireless controllers, the system specs, and the console design. Original Xbox  games are demonstrated on the system, confirming backwards  compatibility. The official Xbox 360 website, Xbox360.com, opens its  doors. The [First teaser commercial](https://drive.google.com/open?id=0B93MDqtePlcDaGxIMURHd0dNb00) advertised this unveiling.
 
 **May 15th**: Bill Gates announces that Halo 3 will launch on the launch day of the PlayStation 3.
 
