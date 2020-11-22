@@ -57,3 +57,5 @@ DLC files should go inside the Content directory "00000002" of a  Title ID folde
 ## Original Xbox Games
 
 Ensure that your Xbox 360 is [able to run Xbox games](https://www.reddit.com/r/360hacks/wiki/original_xbox). Original Xbox games can be placed anywhere and most of the dashboards will recognize them if a content path is set correctly.
+
+GTA5 disc 2 shouldn't be installed to hard drive as it causes pop in issues
