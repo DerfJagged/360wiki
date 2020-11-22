@@ -18,12 +18,12 @@
 |                                                              |                                                         |                                                             |                                     |
 |                                                              |                                                         |                                                             |                                     |
 
-| [FATX Tools](FATXTools/index.md)           | Remote File Transfer                | System Link Emulation | Media & Games                                                | PAtchers            |
-| ------------------------------------------ | ----------------------------------- | --------------------- | ------------------------------------------------------------ | ------------------- |
-| [Xplorer360](FATXTools/Xplorer360.md)      | Xbox 360 Neighborhood               | LiNK                  | DNLA Sharing                                                 | X360GameHack        |
-| [FatXplorer](FATXTools/FatXplorer.md)      | [FTP](Software/FileTransfer/ftp.md) | XLink Kai             | Netflix                                                      | 360 Content Manager |
-| [Party Buffalo](FATXTools/PartyBuffalo.md) | SMB                                 |                       | [Streaming games over a network with ConnectX](Software/Utilities/connectx.md) |                     |
-|                                            |                                     |                       | [iTunes Sharing](Software/Mac/connect360.md)                 |                     |
+| [FATX Tools](FATXTools/index.md)           | Remote File Transfer                | System Link Emulation | Media & Games                                                | Patchers                          |
+| ------------------------------------------ | ----------------------------------- | --------------------- | ------------------------------------------------------------ | --------------------------------- |
+| [Xplorer360](FATXTools/Xplorer360.md)      | Xbox 360 Neighborhood               | LiNK                  | DNLA Sharing                                                 | X360GameHack                      |
+| [FatXplorer](FATXTools/FatXplorer.md)      | [FTP](Software/FileTransfer/ftp.md) | XLink Kai             | Netflix                                                      | 360 Content Manager               |
+| [Party Buffalo](FATXTools/PartyBuffalo.md) | SMB                                 |                       | [Streaming games over a network with ConnectX](Software/Utilities/connectx.md) | [ABGX](Software/Patchers/abgx.md) |
+|                                            |                                     |                       | [iTunes Sharing](Software/Mac/connect360.md)                 |                                   |
 
 ### Emulation & Homebrew
 
@@ -50,10 +50,11 @@
 
 ### Technical Info
 
-| Filesystem                  | Xbox Live | Hardware                     | Development                                                  |
-| --------------------------- | --------- | ---------------------------- | ------------------------------------------------------------ |
-| [XDG3](techinfo/fs/xdg3.md) |           | [eFuses](hardware/efuses.md) | [Converting to DevKit with RGLoader](development/convertdevkitrgloader.md) |
-|                             |           |                              | [Preparing a Xbox 360 Development Environment in Windows 10](development/win10devenv.md) |
-|                             |           |                              | [Installing Linux](development/installlinux.md)              |
-|                             |           |                              | [Networking](development/networking/index.md)                |
+| Filesystem                                                   | Xbox Live                                                    | Hardware                       | Development                                                  | Hacking History                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [XDG3](techinfo/fs/xdg3.md)                                  | [TrueSkill Matchmaking](techinfo/xboxlive/trueskill/index.md) | [eFuses](hardware/efuses.md)   | [Converting to DevKit with RGLoader](development/convertdevkitrgloader.md) | [Burnable Kiosk Disk](techinfo/history/kioskdisk.md)         |
+| [Supported Filesystems](techinfo/fs/supportedfilesystems.md) |                                                              | [Medusa](hardware/medusa.md)   | [Preparing a Xbox 360 Development Environment in Windows 10](development/win10devenv.md) | [2008 Google Talk - The Xbox 360 Security System and Weaknesses](https://www.youtube.com/watch?v=uxjpmc8ZIxM) |
+|                                                              |                                                              | [Sidecar](hardware/sidecar.md) | [Installing Linux](development/installlinux.md)              |                                                              |
+|                                                              |                                                              |                                | [Networking](development/networking/index.md)                |                                                              |
+|                                                              |                                                              |                                | [Developer Networks](development/developernetworks.md)       |                                                              |
 
