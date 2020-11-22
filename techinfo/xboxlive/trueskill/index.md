@@ -1,0 +1,1 @@
+[How the TrueSkill Matchmaking system works](https://web.archive.org/web/20070103052751/http://research.microsoft.com:80/mlp/trueskill/Details.aspx)
