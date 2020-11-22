@@ -1,0 +1,1 @@
+[Info on the burnable Kiosk Disc](https://web.archive.org/web/20070125234138/http://www.xbox-scene.com:80/xbox1data/sep/EEFVyAAAuFzsesrMmN.php)  
