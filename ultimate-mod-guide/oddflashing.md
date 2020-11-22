@@ -1,8 +1,8 @@
-# Drive Flashing
+# Disk Drive Flashing
 
 ------
 
-Flashing an Xbox 360 DVD drive involves overwriting the DVD drive  firmware with a custom firmware (usually LT3). This can be done with as  little as a USB tool, but may range in materials and difficulty, up to  and including drilling into a chip with a very small dremel tool (known  as the "kamikaze" hack). The guide below is the best walkthrough for any model. Credit to Nomadic Dagger for the list of compatible chipsets for drive flashing.
+The guide below is the best walkthrough for any model. Credit to Nomadic Dagger for the list of compatible chipsets for drive flashing.
 
 **Winchester DVD drives cannot be flashed!**
 
