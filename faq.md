@@ -4,11 +4,7 @@
 
 A. This wiki is the wiki to outwiki all wikis. The features provided by GitHub allow this to be so versatile, open, and community-built wiki for the Xbox scene. And **THAT**'s cool.
 
-# Frequently Asked Questions (FAQ)
-
-------
-
-This is the FAQ page for [/r/360hacks](https://www.reddit.com/r/360hacks). Here you'll find most of the info you'll need to start using homebrew on your Xbox 360. A list of [definitions](https://www.reddit.com/r/360hacks/wiki/faq#wiki_definitions) can be found at the bottom of this post. If a question isn't here that  you feel should be, please message one of the moderators.
+ Here you'll find most of the info you'll need to start using homebrew on your Xbox 360. A list of [definitions](https://www.reddit.com/r/360hacks/wiki/faq#wiki_definitions) can be found at the bottom of this post. If a question isn't here that  you feel should be, please message one of the moderators.
 
 [**Click here to view the rest of the 360 Hacks Wiki!**](https://www.reddit.com/r/360hacks/wiki)
 
@@ -63,7 +59,7 @@ A. See [this list](https://www.reddit.com/r/360hacks/wiki/recommendations) of re
 
 **Q. Can I play online safely?**
 
-A. In short, no. RGH/JTAGs get banned within hours unless you use a  (usually) paid service such as NiNJA or xbOnline to keep you from  getting banned. Xbox 360's with flashed drives or ODEs are susceptible  to a ban when playing online, with ban waves occurring in the past. With Microsoft slowing the pace of updates, it may be safer to play online  with flashed drives or ODEs at this point.
+A. In short, no. RGH/JTAGs get banned within hours unless you use a (usually) paid service such as NiNJA or xbOnline to keep you from  getting banned. Xbox 360's with flashed drives or ODEs are susceptible  to a ban when playing online, with ban waves occurring in the past. With Microsoft slowing the pace of updates, it may be safer to play online  with flashed drives or ODEs at this point.
 
 **Q. Can I dual boot an official NAND and a modded NAND to go online safely?**
 
@@ -172,17 +168,3 @@ A.
 | **XDK**                              | An Xbox Development Kit (also known as a devkit). This is an official console used to develop software for the Xbox 360. |
 | **XEX**                              | Xenon Executable. The file type that the Xbox 360 can execute, similar to an EXE on Windows. |
 | **XGD3**                             | Xbox Game Disk 3. A new format for disc games with added security over XGD2. |
-
-|      |      |
-| ---- | ---- |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-
-Credit: /r/360Hacks Wiki
