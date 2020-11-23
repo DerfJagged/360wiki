@@ -1,25 +1,11 @@
-# 360wiki
-## The wiki to end all wikis.
+## The 360wiki to end all Xbox 360 wikis.
 
-If you want to go to the wiki index page, [click here](index.md).
-
-
-
-[Please open a issue if there are any errors or if you have any suggestions.]()
-
-Please fork and pull request any changes or additions you wish to make.
+If you want to go to the wiki index page, [click here](https://360.consolemods.org/).
 
 
 
-Page standards:
+[Please open a issue if there are any errors or if you have any suggestions.](https://github.com/FenixConsoles/360wiki/issues)
 
-Credits and citations are required.
+[Click here to learn how to contribute!](https://360.consolemods.org/contribute/index.html)
 
-All images must be saved locally in the media folder, all videos must be hyperlinks to YouTube.
-
-
-
-Notes are referenced as {#}
-
-Citations are referenced as [#]
 
