@@ -10,7 +10,7 @@
 
 ## Patching Ping Limits
 
-You must launch [DashLaunch](https://www.reddit.com/r/360hacks/wiki/dashlaunch) and enable the Network > pingpatch setting in order to play Xbox 360 games with people over the internet who have 30ms ping from your  location. Original Xbox games do not have this limitation.
+You must launch [DashLaunch](../Software/Utilities/dashlaunch.md) and enable the Network > pingpatch setting in order to play Xbox 360 games with people over the internet who have 30ms ping from your  location. Original Xbox games do not have this limitation.
 
 ## Register an XTag
 

@@ -38,13 +38,13 @@ If the correct code is entered, you will be prompted to reset your  Xbox 360 set
 
 ### Looking up your Reset Code
 
-1. Obtain a [dump of your NAND](https://www.reddit.com/r/360hacks/wiki/nand_backup) if you don't already have one. 
+1. Obtain a [dump of your NAND](../ultimate-mod-guide/nanddump/index.md) if you don't already have one. 
 2. Open JRunner and select the "Load Source" button and choose your  NAND dump. Select Tools > SMC Config Editor. Note the four letters in the field to the left of "Reset Code". 
 3. Navigate to System Settings > Console Settings > System Info. Press (don't hold) the following button combination: `LT+RT+X+Y+LB+RB` followed by the buttons corresponding to the four letters. Any instance of "L" or "R" are the left and right triggers. If the correct code is  entered, you will be prompted to reset your Xbox 360 settings. Select  Yes. This will reset all settings but will not delete any of your saved  games or other data. If you did not receive this prompt, enter the  entire button combination again from the beginning. 
 
 ### Removing the Parental Lock Feature
 
-1. Obtain a [dump of your NAND](https://www.reddit.com/r/360hacks/wiki/nand_backup) if you don't already have one. 
+1. Obtain a [dump of your NAND](../ultimate-mod-guide/nanddump/index.md) if you don't already have one. 
 2. Open JRunner and select the "Load Source" button and choose your NAND dump. Select "Advanced XeBuild Options" and check the `nomobile` box. Press OK to close the window.
 3. Select "Create Image". Rename the file to `updflash.bin` and place it on a USB storage device and plug it into your console.  Boot into XeLL, it should automatically find the update and flash it.
 4. Reboot the Xbox 360 and the new NAND image should be applied with parental controls disabled.

@@ -62,7 +62,7 @@ Now that you know which mod you want to do, follow their respective tutorials an
 
 ## Updating system
 
-
+[Installing Linux](development/installlinux.md)
 
 # Recommended Setup
 

@@ -2,7 +2,7 @@
 
 ------
 
-LiNK is a system link tunneling application created by Team FSD for  consoles that allows you to play with other users on the Internet as if  you were on the same LAN. It is similar to [XLink Kai](https://www.reddit.com/r/360hacks/wiki/xlink), except that it does not require another device on the network to be  running a server. Any System Link enabled game can be played online  through the Xbox Unity servers. You will need to visit [XboxUnity.net](http://xboxunity.net) and create an account in order to use LiNK.
+LiNK is a system link tunneling application created by Team FSD for  consoles that allows you to play with other users on the Internet as if  you were on the same LAN. It is similar to [XLink Kai](kai.md), except that it does not require another device on the network to be  running a server. Any System Link enabled game can be played online  through the Xbox Unity servers. You will need to visit [XboxUnity.net](http://xboxunity.net) and create an account in order to use LiNK.
 
 A video demonstration of setting up LiNK can be found on [MrMario2011's channel](https://youtu.be/KHr02kthz18).
 

@@ -8,7 +8,7 @@ When a console is banned, your unique Xbox 360 keys (stored in a  "keyvault" fil
 
 ## Changing Keyvaults
 
-1. You will need to either buy a new keyvault from someone or obtain a NAND dump from another console ([instructions below](https://www.reddit.com/r/360hacks/wiki/bans#wiki_extracting_a_keyvault)) to extract the keyvault from it. This keyvault should not be shared  with anyone, as two consoles logging in to Xbox Live with the same  keyvault can trigger a ban on the keyvault.
+1. You will need to either buy a new keyvault from someone or obtain a NAND dump from another console ([instructions below](extractkeyvault.md)) to extract the keyvault from it. This keyvault should not be shared  with anyone, as two consoles logging in to Xbox Live with the same  keyvault can trigger a ban on the keyvault.
 2. Your new keyvault should have a kv.bin and cpukey.txt file. Open  cpukey.txt and copy the numbers and letters next to "CPU key" into a  blank Notepad document. In Notepad, click File > Save As, select the  dropdown menu at the bottom of the window and select "All Files", and  save it with the name `cpukey.bin`.
 3. Put both kv.bin and cpukey.bin on a flash drive and plug it into the console.
 4. With a file manager or FTP, open USB0 and copy kv.bin and paste  it into the root of hdd1. Confirm the overwrite if prompted. Repeat for  cpukey.bin.

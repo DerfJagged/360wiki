@@ -2,7 +2,7 @@
 
 ------
 
-This page describes the file systems used by the Xbox 360 as well as  what each directory is on the hard drive. Most custom dashboards have  built in file browsers and provide an [FTP service](https://www.reddit.com/r/360hacks/wiki/ftp) for connecting to the Xbox 360 from another device. There is also  dedicated file browsing software on the Xbox 360 console, like Xex Menu.
+This page describes the file systems used by the Xbox 360 as well as  what each directory is on the hard drive. Most custom dashboards have built in file browsers and provide an [FTP service](../software/filetransfer/ftp.md) for connecting to the Xbox 360 from another device. There is also  dedicated file browsing software on the Xbox 360 console, like [XeXMenu](../software/utilities/xexmenu.md).
 
 ------
 

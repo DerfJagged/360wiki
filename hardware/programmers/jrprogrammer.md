@@ -35,7 +35,7 @@ There are two possible switches on the JR Programmer:
 
 - Verify all solder points are well done and not bridged. If unsure or think it is badly done, reflow the solder.
 - Make sure you are running JRunner as Administrator (Right click JRunner > Run as Administrator).
-- JRunner may have issues with Windows 10, either find an older operating system to flash from or try [this](https://mega.nz/#!AAEwSLRS!au6qMJbY-CsMTl92XjRQbhshkniheMwG4RIDZbZ2mAw) version (you must [disable driver signing](https://www.reddit.com/r/360hacks/wiki/troubleshooting/unsigned_drivers)). If you are planning on using an older operating system, you can use  Windows 7 or XP in a VM with USB access (make sure to install .NET  Framework or JRunner won't work).
+- JRunner may have issues with Windows 10, either find an older operating system to flash from or try [this](https://mega.nz/#!AAEwSLRS!au6qMJbY-CsMTl92XjRQbhshkniheMwG4RIDZbZ2mAw) version (you must [disable driver signing](../disabledriversigenforcement.md)). If you are planning on using an older operating system, you can use  Windows 7 or XP in a VM with USB access (make sure to install .NET  Framework or JRunner won't work).
 - Reinstall the drivers by opening Device Manager and right clicking  the entry for JR Programmer and choosing Update Drivers > Browse > My Computer > JRunner > common > drivers, and choosing the  correct driver for your case.
 - Some devices have defects: play with the switches and make sure the USB port is soldered on well.
 

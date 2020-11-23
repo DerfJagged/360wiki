@@ -32,7 +32,7 @@ The size limit for an internal hard drive on a JTAG/RGH console is 2TB.
 10. If you see [THIS](http://i.imgur.com/ukit0G6.png), press yes. **If you see [THIS](http://i.imgur.com/h1oCEDz.png), DO NOT ACCEPT AS YOU WILL BRICK YOUR CONSOLE.**
 11. The Xbox 360 will install missing data and then reboot. Verify the  installation by going to the original dashboard and make sure that your  avatar has skin and is completely a pale white color.
 
-- If you wish you play original Xbox games on your 360, [see this page](https://www.reddit.com/r/360hacks/wiki/original_xbox) to set up the original Xbox files.
+- If you wish you play original Xbox games on your 360, [see this page](../ultimate-mod-guide/xboxemu/index.md) to set up the original Xbox files.
 
 ## Installing a New Hard Drive in a Stock Console
 

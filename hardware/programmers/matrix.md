@@ -37,7 +37,7 @@ To set the Matrix in bootloader mode, short the `boot` pad to `GND` using a tiny
 1. Plug the Matrix into your PC using a mini-USB to USB cable.
 2. Open Device Manager by pressing Win+R and entering in `devmgmt.msc` or by searching for it in the Start menu. Locate the `Unknown Device` in Device Manager, right click it and select "Update Driver Software"  > "Browse my computer for driver software" > Browse, then select  the DRIVER folder that's located inside the  ...\Nand&CoolRunner_Flasher_USB_v1.1\PIC FIRMWARE directory.
 3. Click OK and it will install the driver and the device will now  show up as "Microchip Custom Usb Device" under the "Custom Usb Devices"  category. 
-   - If you have issues installing the driver and are on Windows 10, check out [this page](https://old.reddit.com/r/360hacks/wiki/troubleshooting/unsigned_drivers) for steps to temporarily disable signed driver enforcement.
+   - If you have issues installing the driver and are on Windows 10, check out [this page](../disabledriversigenforcement.md) for steps to temporarily disable signed driver enforcement.
    - If you receive a warning saying "Windows can't verify the publisher  of this driver software", choose "Install this driver software anyway". 
 
 ### Programming the Matrix
@@ -47,7 +47,7 @@ To set the Matrix in bootloader mode, short the `boot` pad to `GND` using a tiny
 3. Select "Erase Device" and, after it completes, select "Load HEX File" and choose "Program device". Select `PICFLASH_XSVF.HEX` and click "Open". After a few seconds it should say "Programming FLASH Completed" in the log.
 4. Disconnect the Matrix from your PC, un-short the `boot` pad from the `GND` pad, then reconnect the Matrix to your PC. In Device Manager, if it  shows up as a NandPro device, right click it and select "Uninstall",  checking the box to delete the driver if the box exists, then clicking  OK.
 5. In Device Manager, right click the device and select "Update  Driver Software" > "Browse my computer for driver software" >  Browse, then select the XSVF folder that's located inside the `...\Nand&CoolRunner_Flasher_USB_v1.1\LIBUSB_DRIVER\` directory.
-   - If you have issues installing the driver and are on Windows 10, check out [this page](https://old.reddit.com/r/360hacks/wiki/troubleshooting/unsigned_drivers) for steps to temporarily disable signed driver enforcement.
+   - If you have issues installing the driver and are on Windows 10, check out [this page](../disabledriversigenforcement.md) for steps to temporarily disable signed driver enforcement.
    - If you receive a warning saying "Windows can't verify the publisher  of this driver software", choose "Install this driver software anyway".
 
 ## Device Usage
