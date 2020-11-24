@@ -18,7 +18,7 @@ This guide will walk you through obtaining NAND dumps, creating a  patched dump,
 
 1. Download and extract [JRunner](http://www.mediafire.com/file/lk6p034dx445fmd/TWM_Jrunner_Package.zip/file). 
 2. Press Win+R and type `devmgmt.msc` and press Enter to  open Device Manager. You can also get to it by searching for it in the  Start menu. Plug the USB cable into both your programmer and your PC.  Windows should find it and it will appear as `J-R PROGRAMMER` or `NAND-X` under the "Other Devices" category in Device Manager.
-3. If you are on Windows 10, you will need to [disable signed driver enforcement](https://www.reddit.com/r/360hacks/wiki/troubleshooting/unsigned_drivers).
+3. If you are on Windows 10, you will need to [disable signed driver enforcement](https://360.consolemods.org/modguide/disabledriversigenforcement.html).
 4. Right click the programmer's name and select Update Driver  Software... > Browse my computer for driver software > Browse...  > navigate to your JRunner folder > common > drivers > OK  > Next. You may receive a popup saying that Windows can't verify the  publisher of the driver, select the option to install it anyway. It  should successfully install and file your device under its own category  in Device Manager. Your programmer's LED light should also turn green.
 
 ## Soldering to the Motherboard
@@ -41,7 +41,7 @@ This guide will walk you through obtaining NAND dumps, creating a  patched dump,
 2. Select the `Jtag` radio button in the top right of the window and put a check in the `R-jtag` box. If your motherboard is **NOT** a Xenon, put a check in the "Aud_Clamp?" box as well.
 3. In the top left of the window, select the button labeled "Write  Xell-Reloaded". If it says "Device Not Found" or anything about missing  CB/CD files, see the troubleshooting steps at the bottom of this page.  If you get messages about bad blocks, ignore them. It may prompt you for your motherboard model again, make the correct choice and press OK. The progress bar will begin moving and stop when it reaches 03FF (or 1900  for a 256MB/512MB Jasper). This process will take ~3 minutes (~10  minutes for a 256MB / 512MB Jasper).
 4. Once it has successfully written to the motherboard, unplug the  power cable from your Xbox 360 and unplug the USB cable from the  computer and programmer.
-5. Go back to the R-JTOP Hack page and continue at the start of the [Programming the Glitch Chip section](https://old.reddit.com/r/360hacks/wiki/r-jtop#wiki_programming_the_glitch_chip).
+5. Go back to the [R-JTOP Hack page](https://360.consolemods.org/modguide/rjtop/index.html) and continue at the start of the Programming the Glitch Chip section.
 
 ## Troubleshooting
 
@@ -105,7 +105,7 @@ This guide will walk you through obtaining NAND dumps, creating a  patched dump,
    - `nandpro usb: -w16 xxxxx.bin`
 2. Press Enter, and it will start writing the modified dump to your  motherboard. It will increment a hexadecimal counter, starting at  address 0000 and ending at 004F. If it says "Could not detect flash  controller!" or anything about missing CB/CD files, see the  troubleshooting steps at the bottom of this page. This process will take approximately 5 minutes for regular consoles, ~30 minutes for  256MB/512MB Jaspers.
 3. Once it has successfully written to the motherboard, unplug the  power cable from your Xbox 360 and unplug the USB cable from the  computer and the Matrix.
-4. Go back to the R-JTOP Hack page and continue at the start of the [Programming the Glitch Chip section](https://old.reddit.com/r/360hacks/wiki/r-jtop#wiki_programming_the_glitch_chip).
+4. Go back to the [R-JTOP Hack page](https://360.consolemods.org/modguide/rjtop/index.html) and continue at the start of the Programming the Glitch Chip section.
 
 ## Troubleshooting
 

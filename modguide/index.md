@@ -72,22 +72,22 @@ This page will lead you through the basic setup of your console and [/u/Derf_Jag
 
 ------
 
-1. If you have an early phat model, check the [cooling improvements page](https://www.reddit.com/r/360hacks/wiki/improve_cooling) for ideas to lower your system temperatures. 
-2. [Disable the eFuse Burning Circuit](https://old.reddit.com/r/360hacks/wiki/efuses) so that you never have to worry about accidentally updating your system with an official update.
-3. [Save a backup dump of your NAND and KV info](https://www.reddit.com/r/360hacks/wiki/nand_backup) to somewhere safe if you don't already have one. 
-4. [Install XeXmenu](https://old.reddit.com/r/360hacks/wiki/XeXmenu). 
-5. [Install Aurora](https://www.reddit.com/r/360hacks/wiki/aurora) and set paths to scan for games. Keep XeXmenu installed as a backup.
+1. If you have an early phat model, check the [cooling improvements page](https://360.consolemods.org/repairguide/improvecooling.html) for ideas to lower your system temperatures. 
+2. [Disable the eFuse Burning Circuit](https://360.consolemods.org/repairguide/disableefuseburn.html) so that you never have to worry about accidentally updating your system with an official update.
+3. [Save a backup dump of your NAND and KV info](https://360.consolemods.org/modguide/nanddump/index.html) to somewhere safe if you don't already have one. 
+4. [Install XeXmenu](https://360.consolemods.org/software/utilities/xexmenu.html). 
+5. [Install Aurora](https://360.consolemods.org/software/dashboards/aurora.html) and set paths to scan for games. Keep XeXmenu installed as a backup.
 6. Install DashLaunch and:
    - Set target temperatures for fans to 60°C for CPU/GPU/EDRAM.
    - Set `default` to your Aurora XEX so it loads Aurora on bootup.
-   - Set `X` to boot to the Microsoft dashboard XEX (located in flash).
-   - [Block XBL](https://www.reddit.com/r/360hacks/wiki/block_xbl) if you don't plan on playing online.
-7. [Modify your bootanim](https://www.reddit.com/r/360hacks/wiki/bootanim) if you want to customize your boot up animation and sound.
+   - Set `X` to boot to the Microsoft dashboard XEX (located in flash). (Unnecessary, RB will bring you to dash by default.)
+   - [Block XBL](https://360.consolemods.org/modguide/preventbans.html) if you don't plan on playing online.
+7. [Modify your bootanim](https://360.consolemods.org/modguide/custombootanims.html) if you want to customize your boot up animation and sound.
 8. Install apps:
-   - For emulating non-Xbox games: [Various Emulators](https://www.reddit.com/r/360hacks/wiki/emulators)
-   - For activating locked DLC or games: [XM360](https://www.reddit.com/r/360hacks/wiki/xm360)
-9. If you want to mod games, install [Xbox Neighborhood](https://www.reddit.com/r/360hacks/wiki/xbox_neighborhood) and see [this page for specific game mods](https://www.reddit.com/r/360hacks/wiki/modding).
-10. Set up LiNK and/or [XLink Kai](https://www.reddit.com/r/360hacks/wiki/xlink) for system link play.
+   - For emulating non-Xbox games: [Various Emulators](https://360.consolemods.org/software/emulators/index.html)
+   - [For activating locked DLC or games](https://360.consolemods.org/modguide/gamebackups/gamepatching.html)
+9. If you want to mod games, install [Xbox Neighborhood](https://360.consolemods.org/software/networking/xboxneighborhood.html) and see [this page for specific game mods](https://360.consolemods.org/modguide/gamemodding/index.html).
+10. Set up [LiNK](https://360.consolemods.org/software/networking/link.html) and/or [XLink Kai](https://360.consolemods.org/software/networking/kai.html) for system link play.
 
 
 

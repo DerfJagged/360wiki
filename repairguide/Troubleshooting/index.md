@@ -2,7 +2,7 @@
 
 ------
 
-This page serves as a guide to help with troubleshooting issues with  your console. If you see flashing red lights on the front of your  console, please visit the [**Error Codes**](https://www.reddit.com/r/360hacks/wiki/error_codes) page to troubleshoot.
+This page serves as a guide to help with troubleshooting issues with  your console. If you see flashing red lights on the front of your  console, please visit the [**Error Codes**](https://360.consolemods.org/repairguide/errorcodes/index.html) page to troubleshoot.
 
 Many Xbox 360’s made before 2008 have a problem with overheating,  which can then lead to more problems and different errors. If you have  this problem and your console is still under reseller warranty, return  it to your reseller.
 
@@ -24,7 +24,7 @@ If the power supply is fine, the problem may be the RF Module board. If it has b
 
 ### Bad Motherboard
 
-If you still have the problems after checking the above, and you don't receive flashing lights on your console indicating an [error code](https://www.reddit.com/r/360hacks/wiki/error_codes), you may have a problem with your motherboard. It is a common problem  for soldered joints on the motherboard to crack. If this is the case, it may be possible to solder or re-flow the connections.
+If you still have the problems after checking the above, and you don't receive flashing lights on your console indicating an [error code](https://360.consolemods.org/repairguide/errorcodes/index.html), you may have a problem with your motherboard. It is a common problem  for soldered joints on the motherboard to crack. If this is the case, it may be possible to solder or re-flow the connections.
 
 ## Xbox 360 won't Read Discs
 

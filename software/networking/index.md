@@ -2,7 +2,7 @@
 
 ------
 
-Files can be transferred to and from your Xbox 360 using FTP  programs. On a custom dashboard, an FTP server will always be running in the background. The recommended FTP program is [FileZilla](https://filezilla-project.org/), and a step-by-step tutorial for it can be found [here](https://www.reddit.com/r/360hacks/wiki/filezilla). Recommended settings
+Files can be transferred to and from your Xbox 360 using FTP  programs. On a custom dashboard, an FTP server will always be running in the background. The recommended FTP program is [FileZilla](https://filezilla-project.org/), and a step-by-step tutorial for it can be found [here](https://360.consolemods.org/software/networking/filezilla.html). Recommended settings
 
 1. Make sure you have either an Ethernet or WiFi connection between your Xbox 360 and PC.
 2. Take note of your Xbox's IP address. It should be on the dashboard.

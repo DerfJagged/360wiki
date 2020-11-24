@@ -13,12 +13,12 @@ Peek Poker is a tool used to view and modify values in live RAM on  your Xbox 36
    - RPC.xex
    - xbdm.xex
 2. Open DashLaunch and expand the Plugins section. Highlight  plugin1, press A, and navigate to and select xbdm.xex. Repeat the same  process to add RPC.xex as plugin2 and JRPC.xex as plugin3. Press RB,  highlight Flash, and press X to save.
-3. Reboot your Xbox 360 and verify that you can successfully connect to your console with [Xbox 360 Neighborhood](https://www.reddit.com/r/360hacks/wiki/xbox_neighborhood). 
+3. Reboot your Xbox 360 and verify that you can successfully connect to your console with [Xbox 360 Neighborhood](https://360.consolemods.org/software/networking/xboxneighborhood.html). 
 4. Verify that Peek Poker can connect to your Xbox 360 by entering  your Xbox 360's IP address into the bottom left field in Peek Poker and  clicking Connect. You can find your Xbox 360's IP address by opening  Xbox Neighborhood, right clicking the console, and clicking Properties.
 
 ## Usage Example
 
-- This example assumes that you have used another tool, such as [XCE Tools](https://www.reddit.com/r/360hacks/wiki/xce) to find the offsets for a value you wish to change in-game. This  provided example continues the example found on the XCE Tools page which we are trying to change the target value to 900, and we had found the  potential offsets for the target value as:
+- This example assumes that you have used another tool, such as [XCE Tools](https://360.consolemods.org/software/debugger/xcetool.html) to find the offsets for a value you wish to change in-game. This  provided example continues the example found on the XCE Tools page which we are trying to change the target value to 900, and we had found the  potential offsets for the target value as:
   - 001: ABCD1234: 57>>62
   - 002: AAAA1234: 57>>62 
   - 003: DAAD0000: 57>>62

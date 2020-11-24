@@ -33,7 +33,7 @@ Opens or closes the disc tray, or launches the inserted game. Press X to open it
 
 #### Profile
 
-You can sign in to a profile by clicking here. The active avatar will be displayed. If the avatar is completely faded white, you may need to [reinstall the avatar data](https://www.reddit.com/r/360hacks/wiki/update_dash#wiki_installing_the_avatar_data). Press X to sign out if already signed in..
+You can sign in to a profile by clicking here. The active avatar will be displayed. If the avatar is completely faded white, you may need to [reinstall the avatar data](https://360.consolemods.org/modguide/updatesystem.html). Press X to sign out if already signed in..
 
 #### Xbox 360 Games
 
@@ -70,13 +70,13 @@ Opening this will list any emulators (not ROMs) in the specified scan directory,
 - **Enable Beta Updates**: No longer working. Reaches out to check for beta FSD updates.
 - **Show StatusBar at Startup**: Shows the network, status, date, and time at the bottom of the screen.
 - **Show Weather on Startup**: No longer working. Displays the weather on startup. Same as pressing the Back button.
-- **File Manager Advanced Mode (flash, sysext, hddx)**: Un-hides these directories in the file manager. Descriptions of the directories can be found [here](https://www.reddit.com/r/360hacks/wiki/files).
+- **File Manager Advanced Mode (flash, sysext, hddx)**: Un-hides these directories in the file manager. Descriptions of the directories can be found [here](https://360.consolemods.org/techinfo/filesystem/directories.html).
 - **Enable smb: File Manager**: Allows you to manage a remote share from the file manager. 
 - **Enable Samba Server**: Allows you to input the Workgroup name and Hostname of the device with the remote share for game and music streaming. 
 
 ###### JQE60.com
 
-- Allows you to log in to JQE360 for playing on [LiNK](https://www.reddit.com/r/360hacks/wiki/link).
+- Allows you to log in to JQE360 for playing on [LiNK](https://360.consolemods.org/software/networking/link.html).
 
 ###### Profile
 
@@ -173,7 +173,7 @@ Opening this will list any emulators (not ROMs) in the specified scan directory,
 
 #### File Manager
 
-- Controls shown on screen. In order to execute a copy/move from one  side to another, you will have to hold LB or RB as a modifier for the  direction to copy/move and press the desired command. Directories and  their descriptions are listed [on this page](https://www.reddit.com/r/360hacks/wiki/files).
+- Controls shown on screen. In order to execute a copy/move from one  side to another, you will have to hold LB or RB as a modifier for the  direction to copy/move and press the desired command. Directories and  their descriptions are listed [on this page](https://360.consolemods.org/techinfo/filesystem/directories.html).
 
 #### DVD Extract
 

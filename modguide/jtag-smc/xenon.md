@@ -29,7 +29,7 @@ Once you've finished soldering, clean up any flux with isopropyl  alcohol and co
 - Your video cable (preferably not HDMI) is plugged in
 - Your power brick is plugged in to both you wall and Xbox 360
 
-Turn on your console, and it should boot into XeLL within a minute.  At this point, write down (and/or take a picture of) the "CPU Key"  listed on screen, and turn your console off. You can now go back to the  JTAG (or R-JTOP) hack page and continue from the beginning of the [Creating an XeBuild Image](https://www.reddit.com/r/360hacks/wiki/jtag#wiki_creating_an_xebuild_image) section.
+Turn on your console, and it should boot into XeLL within a minute.  At this point, write down (and/or take a picture of) the "CPU Key"  listed on screen, and turn your console off. You can now go back to the  [JTAG](https://360.consolemods.org/modguide/jtag-smc/index.html) (or [R-JTOP](https://360.consolemods.org/modguide/rjtop/index.html) hack page and continue from the beginning of the Creating an XeBuild Image section.
 
 - If your console doesn't boot into XeLL, check all previous steps and double check your wiring accuracy and quality.
 

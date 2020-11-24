@@ -18,7 +18,7 @@ A video demonstration of how to install Aurora can be found on [MrMario2011](htt
 
 ## Installation
 
-Download the latest Aurora build from [XboxUnity.net](http://phoenix.xboxunity.net/#/news) and extract the files into a new folder named `Aurora`. Copy this folder to your Xbox 360's hard drive. Launch the Aurora.xex  to start the dashboard, or set it as your default dashboard using [DashLaunch](https://www.reddit.com/r/360hacks/wiki/dashlaunch).  
+Download the latest Aurora build from [XboxUnity.net](http://phoenix.xboxunity.net/#/news) and extract the files into a new folder named `Aurora`. Copy this folder to your Xbox 360's hard drive. Launch the Aurora.xex  to start the dashboard, or set it as your default dashboard using [DashLaunch](https://360.consolemods.org/software/utilities/dashlaunch.html).  
 
 ## Controls
 
@@ -36,7 +36,7 @@ Download the latest Aurora build from [XboxUnity.net](http://phoenix.xboxunity.n
 
 ## Game Launcher (CoverFlow)
 
-The game launcher is a horizontal list of games that you can scroll through. In order to see covers, you have to [set the path setting](https://www.reddit.com/r/360hacks/wiki/aurora#wiki_manage_paths) to point to the folder(s) that contains your games/homebrew.
+The game launcher is a horizontal list of games that you can scroll through. In order to see covers, you have to set the path setting to point to the folder(s) that contains your games/homebrew.
 
 ## View Settings (B)
 
@@ -119,7 +119,7 @@ This section shows various tools and metadata about your temperatures and IP add
 
 ### Assets
 
-This section allows you to download metadata from the Xbox Live  marketplace for all games, even from different regions. The Download  button will download them from the selected locale, while the Import  button will import metadata that you place on your local hard drive in [this import format](https://www.reddit.com/r/360hacks/wiki/aurora/import_format).
+This section allows you to download metadata from the Xbox Live  marketplace for all games, even from different regions. The Download  button will download them from the selected locale, while the Import  button will import metadata that you place on your local hard drive in the import format below.
 
 ### Profile
 
@@ -129,7 +129,7 @@ This section allows you to set an auto sign in profile and add your  username an
 
 #### Title Updates
 
-This section allows you to mass install.delete game updates or set it to automatically scan for updates always. You will need to [make an XboxUnity account and request an API key](https://www.reddit.com/r/360hacks/wiki/aurora#wiki_profile) before it allows you to download them.
+This section allows you to mass install.delete game updates or set it to automatically scan for updates always. You will need to make an XboxUnity account and request an API key before it allows you to download them.
 
 #### Manage Paths
 

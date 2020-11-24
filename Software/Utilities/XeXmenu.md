@@ -2,7 +2,7 @@
 
 ------
 
-[XeXMenu](https://mega.nz/file/9AlUmDZK#oykniipcx80kvuRxLaqY8NtPMJYKHW1ZYpqYfcAZsLA) is a dashboard for the Xbox 360. It is often recommended in JTAG/RGH  tutorials as the first dashboard to be installed as it has an installer  that shows up under the Games library in the official dash. However, it  is limited in function compared to more feature rich dashboards such as [Freestyle Dash](https://www.reddit.com/r/360hacks/wiki/fsd) or [Aurora](https://www.reddit.com/r/360hacks/wiki/aurora).
+[XeXMenu](https://mega.nz/file/9AlUmDZK#oykniipcx80kvuRxLaqY8NtPMJYKHW1ZYpqYfcAZsLA) is a dashboard for the Xbox 360. It is often recommended in JTAG/RGH  tutorials as the first dashboard to be installed as it has an installer  that shows up under the Games library in the official dash. However, it  is limited in function compared to more feature rich dashboards such as [Freestyle Dash](https://360.consolemods.org/software/dashboards/fsd.html) or [Aurora](https://360.consolemods.org/software/dashboards/aurora.html).
 
 A video demonstration of installing XeXMenu can be found on [MrMario2011's channel](https://youtu.be/w5xVFNkxv-I?list=PL1CadovfabPskGb2Ur4kBGzD5s7DzQw5I).
 
@@ -48,7 +48,7 @@ Your files and folders are listed for the selected device (hdd1, usb0, usb1, or 
 
 ### CopyDVD
 
-This option will copy the contents of an inserted DVD to the current  directory in the file manager. A full tutorial can be found [on the ripping page](https://www.reddit.com/r/360hacks/wiki/ripping#wiki_ripping_with_xexmenu).
+This option will copy the contents of an inserted DVD to the current  directory in the file manager. A full tutorial can be found [on the game backups page](https://360.consolemods.org/modguide/gamebackups/backupgames.html).
 
 ### PatchXex
 

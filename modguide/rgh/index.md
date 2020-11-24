@@ -31,29 +31,29 @@ There are four different methods to reading your NAND chip: Nand-X,  JR Programm
 
 | Method                                                       | Pros                                                         | Cons                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **[NAND-X](https://www.reddit.com/r/360hacks/wiki/rgh/jr_programmer)** | - Reads NANDs the fastest: 2-8 minutes - Can also program Glitch Chips | - More expensive than JR Programmer                          |
-| **[JR-Programmer](https://www.reddit.com/r/360hacks/wiki/rgh/jr_programmer)** | - Reads NANDs faster than Matrix: 3-15 minutes - Can also program Glitch Chips | - More expensive than Matrix Flasher                         |
-| **[Matrix USB NAND Flasher](https://www.reddit.com/r/360hacks/wiki/rgh/matrix)** | - Cheapest option                                            | - Reads NANDs in 7-26 minutes - Can't be used for programming RGH Glitch Chips [unless you modify it](https://www.reddit.com/r/360hacks/wiki/programmer/matrix) |
-| **[LPT Cable](https://www.reddit.com/r/360hacks/wiki/rgh/lpt)** | - Old school DIY experience                                  | **- Much more difficult** - Can't be used for programming Glitch Chips - Takes ~30 minutes for a NAND read, ~150 minutes for large 256/512 NANDs |
-| **[SD Card](https://www.reddit.com/r/360hacks/wiki/rgh/sd_card)** | - The **only** option for Corona v2/v4/v6                    | - You still need a NAND-X or JR-Programmer to Program Glitch Chips |
+| **[NAND-X](https://360.consolemods.org/hardware/programmers/nandx.html)** | - Reads NANDs the fastest: 2-8 minutes - Can also program Glitch Chips | - More expensive than JR Programmer                          |
+| **[JR-Programmer](https://360.consolemods.org/hardware/programmers/jrprogrammer.html)** | - Reads NANDs faster than Matrix: 3-15 minutes - Can also program Glitch Chips | - More expensive than Matrix Flasher                         |
+| **[Matrix USB NAND Flasher](https://360.consolemods.org/hardware/programmers/matrix.html)** | - Cheapest option                                            | - Reads NANDs in 7-26 minutes - Can't be used for programming RGH Glitch Chips unless you modify it per the tutorial on it's page. |
+| **[LPT Cable](https://360.consolemods.org/hardware/programmers/lpt.html)** | - Old school DIY experience                                  | **- Much more difficult** - Can't be used for programming Glitch Chips - Takes ~30 minutes for a NAND read, ~150 minutes for large 256/512 NANDs |
+| **[SD Card](https://360.consolemods.org/hardware/programmers/sdcard.html)** | - The **only** option for Corona v2/v4/v6                    | - You still need a NAND-X or JR-Programmer to Program Glitch Chips |
 
 ## RGH Phat Wiring
 
-### [RGH1](https://www.reddit.com/r/360hacks/wiki/rgh/rgh1)
+### [RGH1](https://360.consolemods.org/modguide/rgh/rgh1/index.html)
 
-### [RGH1.2](https://www.reddit.com/r/360hacks/wiki/rgh/rgh12)
+### [RGH1.2](https://360.consolemods.org/modguide/rgh/rgh12/index.html)
 
-### [RGH2](https://www.reddit.com/r/360hacks/wiki/rgh/rgh2)
+### [RGH2](https://360.consolemods.org/modguide/rgh/rgh2/index.html)
 
-### [S-RGH](https://www.reddit.com/r/360hacks/wiki/rgh/s-rgh)
+### [S-RGH](https://360.consolemods.org/modguide/rgh/srgh/index.html)
 
-### [Xenon RGH](placeholder)
+### [Xenon RGH](https://360.consolemods.org/modguide/rgh/xenon.html)
 
 ## RGH Slim Wiring
 
-### [RGH2](https://www.reddit.com/r/360hacks/wiki/rgh/rgh2)
+### [RGH2](https://360.consolemods.org/modguide/rgh/rgh2/index.html)
 
-### [S-RGH](https://www.reddit.com/r/360hacks/wiki/rgh/s-rgh)
+### [S-RGH](https://360.consolemods.org/modguide/rgh/srgh/index.html)
 
 ## Installing XeXMenu
 
@@ -63,10 +63,10 @@ There are four different methods to reading your NAND chip: Nand-X,  JR Programm
 4. Select Drive > Close, then close Xplorer360. Safely eject your flash drive and plug it into your Xbox 360. Navigate to the Demos  section of your dashboard, and it should list XeXMenu there. Select it  to launch it. 
    - You can install XeXMenu to your hard drive by going to Console  Settings > Storage, and copying it from your flash drive to the hard  drive.
 
-From here, you can install any homebrew or mods that you want. See [this page](https://www.reddit.com/r/360hacks/wiki/recommendations) for a list of recommended modifications and applications to install.
+From here, you can install any homebrew or mods that you want. See [here](https://360.consolemods.org/modguide/recommendedsetup.html) for a list of recommended modifications and applications to install.
 
 - Recommended chips for RGH
   - Xenon/Zephyr/Trinity/Corona - Ace v3
-  - Falcon - Revc or Matrixx
+  - Falcon - Revc or Matrix
   - Jasper/Kronos - Revc
 

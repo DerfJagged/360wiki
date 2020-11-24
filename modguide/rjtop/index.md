@@ -54,9 +54,9 @@ There are three different methods to making a dump of your NAND chip: Nand-X, JR
 
 | Method                                                       | Pros                                                         | Cons                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **[Nand-X](https://www.reddit.com/r/360hacks/wiki/r-jtop/jr_programmer)** | *- Dumps NAND faster than JR Programmer; 2-8 minutes* **- Can also program RGH glitchchips** | - More expensive than JR Programmer                          |
-| **[JR Programmer](https://www.reddit.com/r/360hacks/wiki/r-jtop/jr_programmer)** | *- Cheaper than Nand-X* **- Can also program RGH glitchchips** | - More expensive than Matrix                                 |
-| **[Matrix USB NAND Flasher](https://www.reddit.com/r/360hacks/wiki/r-jtop/matrix)** | *- Cheapest option* **- Dumps NAND at same speed as NAND-X** | - Can't be used for programming RGH glitchchips [unless you modify it](https://www.reddit.com/r/360hacks/wiki/programmer/matrix) |
+| **[Nand-X](https://360.consolemods.org/hardware/programmers/nandx.html)** | *- Dumps NAND faster than JR Programmer; 2-8 minutes* **- Can also program RGH glitchchips** | - More expensive than JR Programmer                          |
+| **[JR Programmer](https://360.consolemods.org/hardware/programmers/jrprogrammer.html)** | *- Cheaper than Nand-X* **- Can also program RGH glitchchips** | - More expensive than Matrix                                 |
+| **[Matrix USB NAND Flasher](https://360.consolemods.org/hardware/programmers/matrix.html)** | *- Cheapest option* **- Dumps NAND at same speed as NAND-X** | - Can't be used for programming RGH glitchchips unless you modify it per the tutorial on it's page. |
 
 ## Programming the Glitch Chip
 
@@ -68,15 +68,15 @@ There are three different methods to making a dump of your NAND chip: Nand-X, JR
 
 The wiring for R-JTOP is the same as the wiring for the JTAG hack. Choose the guide that pertains to you:
 
-### [Xenon Method](https://www.reddit.com/r/360hacks/wiki/jtag/xenon)
+### [Xenon Method](https://360.consolemods.org/modguide/jtag-smc/xenon.html)
 
 - This is the only method for Xenon motherboards. Do not use it if you have a non-Xenon motherboard.
 
-### [Boxxdr Method](https://www.reddit.com/r/360hacks/wiki/jtag/boxxdr)
+### [Boxxdr Method](https://360.consolemods.org/modguide/jtag-smc/boxxdr.html)
 
 - This method is for Zephyr, Opus, Falcon, or Jasper motherboards. This method may disable 5.1 audio output.
 
-### [Boxxdr Method + Open_Tray](https://www.reddit.com/r/360hacks/wiki/jtag/boxxdr_dvd_tray)
+### [Boxxdr Method + Open_Tray](https://360.consolemods.org/modguide/jtag-smc/boxxdropentray.html)
 
 - Use this method if the Boxxdr method doesn't boot, you receive E79  errors, or you have issues with HDMI. This method may cause your DVD  drive to eject on bootup. Also, your console will reboot instead of  shutting down if you turn off the console while a controller is charging via USB.
 
@@ -106,8 +106,8 @@ You should now be able to turn on your Xbox 360 and boot into XeLL  and see your
 3. Copy updflash.bin to a FAT32 formatted USB storage device and  plug it into your powered-off console. Turn on your console and it will  boot into XeLL and begin flashing your NAND. Once it has finished, it  will power off your console. Turn it back on, and it should boot to the  Microsoft dashboard, which is an indication that you've successfully  hacked your console. You're now free to install XEXmenu (instructions in section below).
 
 - You may want to leave your Xbox 360 disassembled so that you can:
-  - ...[disable the eFuse-blowing circuit](https://old.reddit.com/r/360hacks/wiki/efuses) so that you can't accidentally install official updates on your console.
-  - ...check what it's running temperatures are so that you can judge whether it'd be a good idea to use [cooling mods](https://old.reddit.com/r/360hacks/wiki/improve_cooling) to avoid overheating issues. This is recommended for all fat consoles, particularly Xenons.
+  - ...[disable the eFuse-blowing circuit](https://360.consolemods.org/repairguide/disableefuseburn.html) so that you can't accidentally install official updates on your console.
+  - ...check what it's running temperatures are so that you can judge whether it'd be a good idea to use [cooling mods](https://360.consolemods.org/repairguide/improvecooling.html) to avoid overheating issues. This is recommended for all fat consoles, particularly Xenons.
 
 ## Installing XeXMenu
 
@@ -117,4 +117,4 @@ You should now be able to turn on your Xbox 360 and boot into XeLL  and see your
 4. Select Drive > Close, then close Xplorer360. Safely eject your flash drive and plug it into your Xbox 360. Navigate to the Demos  section of your dashboard, and it should list XeXMenu there. Select it  to launch it. 
    - You can install XeXMenu to your hard drive by going to Console  Settings > Storage, and copying it from your flash drive to the hard  drive.
 
-From here, you can install any homebrew or mods that you want. See [this page](https://www.reddit.com/r/360hacks/wiki/recommendations) for a list of recommended modifications and applications to install.
+From here, you can install any homebrew or mods that you want. See [this page](https://360.consolemods.org/modguide/recommendedsetup.html) for a list of recommended modifications and applications to install.

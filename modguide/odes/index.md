@@ -2,11 +2,11 @@
 
 ------
 
-### [xk3y](https://www.reddit.com/r/360hacks/wiki/ode/xk3y)
+### [xk3y](https://360.consolemods.org/modguide/odes/xk3y.html)
 
 - A product from the WiiKey Team, based off of Linux, compatible with  multiple file systems. Check page for console compatibility. 
 
-### Wasabi360
+### [Wasabi360](https://360.consolemods.org/modguide/odes/wasabi.html)
 
-### Boxzii (X360DOCK)
+### [Boxzii (X360DOCK)](https://360.consolemods.org/modguide/odes/boxzii-x360dock.html)
 

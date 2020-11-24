@@ -13,7 +13,7 @@ XCE Tools is a debugger similar to Cheat Engine on a PC. With it, you can scan m
    - RPC.xex
    - xbdm.xex
 2. Open DashLaunch and expand the Plugins section. Highlight  plugin1, press A, and navigate to and select xbdm.xex. Repeat the same  process to add RPC.xex as plugin2 and JRPC.xex as plugin3. Press RB,  highlight Flash, and press X to save.
-3. Reboot your Xbox 360 and verify that you can successfully connect to your console with [Xbox 360 Neighborhood](https://www.reddit.com/r/360hacks/wiki/xbox_neighborhood).
+3. Reboot your Xbox 360 and verify that you can successfully connect to your console with [Xbox 360 Neighborhood](https://360.consolemods.org/software/networking/xboxneighborhood.html).
 
 ## Usage Example
 
@@ -29,4 +29,4 @@ This example is a hypothetical example using the game Doom 3. In this example, w
    - 001: ABCD1234: 57>>62
    - 002: AAAA1234: 57>>62 
    - 003: DAAD0000: 57>>62
-8. The offset we want is one of these. Often times multiple offsets  follow the same path of changes as it might be separate variables for  displaying graphics or just a copy of the variable. The only way to  really know for sure which value is the one we want is to manually  change (poke) the value and see if it changes in-game. For this, we can  use [Peek Poker](https://www.reddit.com/r/360hacks/wiki/peekpoker#wiki_usage_example).
+8. The offset we want is one of these. Often times multiple offsets  follow the same path of changes as it might be separate variables for  displaying graphics or just a copy of the variable. The only way to  really know for sure which value is the one we want is to manually  change (poke) the value and see if it changes in-game. For this, we can  use [Peek Poker](https://360.consolemods.org/software/debuggers/peekpoker.html).

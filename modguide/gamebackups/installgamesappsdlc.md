@@ -8,7 +8,7 @@ This guide will show you where to install different content so it can be run on 
 
 ## Xbox 360 Disc Rips
 
-Xbox 360 games ripped from a disc can be placed anywhere. Most  dashboards have to have a content path set in order to automatically  find them, which you can change in the dashboard settings.
+Xbox 360 games ripped from a disc can be placed anywhere. Most dashboards have to have a content path set in order to automatically  find them, which you can change in the dashboard settings.
 
 ## Xbox Live Arcade Games
 
@@ -36,7 +36,7 @@ If you want games to show in original dashboard then the games should be install
 
 ##### Extracted
 
-One option is to [extract the GOD package](https://www.reddit.com/r/360hacks/wiki/god2iso) and use the extracted files. Most dashboards will find files and treat it as game.
+One option is to [extract the GOD package](https://360.consolemods.org/software/godtools/god2iso.html) and use the extracted files. Most dashboards will find files and treat it as game.
 
 ## Xbox Indie Games
 
@@ -56,6 +56,6 @@ DLC files should go inside the Content directory "00000002" of a  Title ID folde
 
 ## Original Xbox Games
 
-Ensure that your Xbox 360 is [able to run Xbox games](https://www.reddit.com/r/360hacks/wiki/original_xbox). Original Xbox games can be placed anywhere and most of the dashboards will recognize them if a content path is set correctly.
+Ensure that your Xbox 360 is [able to run Xbox games](https://360.consolemods.org/software/emulators/xboxemu/index.html). Original Xbox games can be placed anywhere and most of the dashboards will recognize them if a content path is set correctly.
 
 GTA5 disc 2 shouldn't be installed to hard drive as it causes pop in issues

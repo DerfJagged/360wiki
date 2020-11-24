@@ -39,7 +39,7 @@ Different file browsers for the Xbox 360 will list different  directories in roo
 - **DVD**: Contents of current CD/DVD in the disc drive.
 - **Game**: Shortcut for the currently loaded applications directory. This is directory where currently loaded .xex exists.
 - **Hdd1**: Internal hard disk main partition (partition 3).
-- **HddX**: [Original Xbox backwards compatibility partition](https://www.reddit.com/r/360hacks/wiki/original_xbox) (partition 2). This might not be present if it is not installed.
+- **HddX**: [Original Xbox backwards compatibility partition](https://360.consolemods.org/software/emulators/xboxemu/index.html) (partition 2). This might not be present if it is not installed.
 - **SysExt**: System extended partition.
 - **System**: Contents of the NAND chip.
 - **Usb0**: Contents of first plugged in USB drive.
@@ -145,7 +145,7 @@ Hdd1 is where all console-created and downloaded content is stored.  From here c
 
 ### HddX
 
-HddX is the original Xbox backwards compatibility partition. It is  used when playing original Xbox games on the Xbox 360. If partition is  not visible [it might not be installed](https://www.reddit.com/r/360hacks/wiki/original_xbox).
+HddX is the original Xbox backwards compatibility partition. It is  used when playing original Xbox games on the Xbox 360. If partition is  not visible [it might not be installed](https://360.consolemods.org/software/emulators/xboxemu/index.html).
 
 ### SysExt
 
@@ -166,7 +166,7 @@ This guide will walk you through managing your Xbox / Xbox 360 game  saves. Save
 ## Xbox 360 Saves
 
 1. Connect your Xbox 360 hard drive to your PC with a transfer cable or plug in a flash drive that you've moved saves onto using the  Microsoft dashboard memory manager. 
-2. Navigate into Partition 3 > Content. This folder contains a folder for each profile on the system, and a public directory `0000000000000000` ([example structure here](https://www.reddit.com/r/360hacks/wiki/files#wiki_example_structure)). Open your profile, and a folder for each game will be inside. Right  click the desired game, and select "Extract..." if you wish to copy the  save to your PC, or right click the blank field and select "Insert  Folder" and insert your game save folder. It should be something like `373407DB`. 
+2. Navigate into Partition 3 > Content. This folder contains a folder for each profile on the system, and a public directory `0000000000000000` ([example structure here](https://360.consolemods.org/techinfo/filesystem/directories.html)). Open your profile, and a folder for each game will be inside. Right  click the desired game, and select "Extract..." if you wish to copy the  save to your PC, or right click the blank field and select "Insert  Folder" and insert your game save folder. It should be something like `373407DB`. 
 
 ## Injecting Original Xbox Saves (Transfer Cable)
 

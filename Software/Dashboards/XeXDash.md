@@ -2,7 +2,7 @@
 
 ------
 
-[XexDash](http://www.mediafire.com/file/n9pla9aa3gk1s3o/XexDash_v0.03.zip/file), not to be confused with the more popular [XeXMenu](https://www.reddit.com/r/360hacks/wiki/xexmenu), is a minimal custom dashboard capable of launching game backups, FTP,  and changing fan speeds. On release, XexDash was used for supporting  Chinese and Japanese characters in game and folder names, a feature that caused issues on other dashboards.
+[XexDash](http://www.mediafire.com/file/n9pla9aa3gk1s3o/XexDash_v0.03.zip/file), not to be confused with the more popular [XeXMenu](https://360.consolemods.org/software/utilities/xexmenu.html), is a minimal custom dashboard capable of launching game backups, FTP,  and changing fan speeds. On release, XexDash was used for supporting  Chinese and Japanese characters in game and folder names, a feature that caused issues on other dashboards.
 
 - The default username/password for FTP is "xbox" and "xbox".
 - If you have issues using FTP after using this dashboard, delete the `XexDash.xml` file it generated on hdd1:. You may need to completely remove the dashboard and restart your Xbox 360 to get it to work. 

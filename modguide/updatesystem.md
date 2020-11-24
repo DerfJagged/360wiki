@@ -20,7 +20,7 @@ A video demonstration of how to update your JTAG/RGH dashboard can be found on [
 
 - A Windows PC
 - A JTAG/RGH Xbox 360
-- A NAND dump (flashdmp.bin file) and your CPU Key (FUSE.txt file) - [Guide](https://www.reddit.com/r/360hacks/wiki/nand_backup)
+- A NAND dump (flashdmp.bin file) and your CPU Key (FUSE.txt file) - [Guide](https://360.consolemods.org/modguide/nanddump/index.html)
 - A router (the Xbox 360 and your PC needs to be in same network)
 - [Simple 360 NAND Flasher 1.2](http://www.homebrew-connection.org/files/xbox/nand_flasher/dl_Simple_360_NAND_Flasher_v1.2.rar)
 - Unofficial [xeBuild GUI](https://mega.nz/#!Il50wSKK!8cM-a4slhEyAR3Tr4my2-G4O5XlHvEv9P_Z-ZlcSUec) (currently v2.099)
