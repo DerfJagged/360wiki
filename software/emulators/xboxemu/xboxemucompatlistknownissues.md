@@ -1,10 +1,10 @@
 # Stock Compatibility List
 
-
+For an official list of  compatible Xbox games, see [this page](https://www.reddit.com/r/originalxbox/wiki/360_compatibility).
 
 # Hacked Compatibility List
 
-This list is a community made list documenting the compatibility of  original Xbox games on Xbox 360 using backwards compatibility files  modified to remove the game whitelist. For an official list of  compatible Xbox games, see [this page](https://www.reddit.com/r/originalxbox/wiki/360_compatibility).
+This list is a community made list documenting the compatibility of  original Xbox games on Xbox 360 using backwards compatibility files  modified to remove the game whitelist. 
 
 If any information here is incorrect or you test any untested games, find bugs, etc. please [open an issue](https://github.com/FenixConsoles/360wiki/issues/new) and let us know!
 
