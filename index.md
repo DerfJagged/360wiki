@@ -43,3 +43,27 @@
 | [XDG3](techinfo/fs/xdg3.md)                                  | [TrueSkill Matchmaking](techinfo/xboxlive/trueskill/index.md) | [eFuses](hardware/efuses.md)                                 | [Developer Networks](https://360.consolemods.org/techinfo/development/developernetworks.html) | [2008 Google Talk - The Xbox 360 Security System and Weaknesses](https://www.youtube.com/watch?v=uxjpmc8ZIxM) |
 | [Supported Filesystems](techinfo/fs/supportedfilesystems.md) |                                                              |                                                              |                                                              |                                                              |
 
+## License
+
+This wiki is software, licensed under the GPL v2. Any contributions or knowledge is licensed per the GPL v2 and sources are credited appropriately.
+
+360Wiki, a project to compile together information about the Xbox 360 and relevant information.
+Copyright (C) 2020 Fenix Consoles
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+
+
+Click [here](https://360.consolemods.org/LICENSE.html) to read the full license.
