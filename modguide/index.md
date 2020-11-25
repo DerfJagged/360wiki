@@ -34,7 +34,7 @@ These are where the system is modified to run unsigned code. This includes [RGH]
 
 From here you can: 
 
-| Add Custom Boot animations | Run Linux | [Use a Stealth Server to Play on Xbox Live](https://360.consolemods.org/modguide/xboxlive/stealth.html) |      |      |
+| Add Custom Boot animations | Run Linux | Use a Stealth Server to Play on Xbox Live                    |      |      |
 | -------------------------- | --------- | ------------------------------------------------------------ | ---- | ---- |
 |                            |           | Use [LiNK](https://360.consolemods.org/software/networking/link.html) or [XLink Kai](https://360.consolemods.org/software/networking/kai.html) to play online over emulated System Link |      |      |
 |                            |           |                                                              |      |      |
