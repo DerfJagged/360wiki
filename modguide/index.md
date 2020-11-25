@@ -30,7 +30,7 @@ An Optical Drive Emulator is a device that allows you to run game backups on a X
 
 These are where the system is modified to run unsigned code. This includes [RGH](https://360.consolemods.org/modguide/rgh/index.html)/[JTAG/SMC](https://360.consolemods.org/modguide/jtag-smc/index.html)/[R-JTAG](https://360.consolemods.org/modguide/rjtag/index.html)/[R-JTOP](https://360.consolemods.org/modguide/rjtop/index.html). Often, people will install a freeboot image to NAND, some essential utilities, a custom dashboard, and homebrew. These mods will allow you to play modified game backups and do much much more with your console. Refer to the following chart to determine which you should do:
 
-![exploitchart](https://360.consolemods.org/)
+![exploitchart](/media/guides/unsignedcodemods/exploitchart.png)
 
 From here you can: 
 
