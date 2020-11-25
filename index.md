@@ -47,7 +47,7 @@
 
 This wiki is software, licensed under the GPL v2. Any contributions or knowledge is licensed per the GPL v2 and sources are credited appropriately.
 
-360Wiki, a project to compile together information about the Xbox 360 and relevant information.
+360Wiki, a project to compile together information about the Xbox 360 and relevant hardware, software, theory, etc.
 Copyright (C) 2020 Fenix Consoles
 
 This program is free software; you can redistribute it and/or modify
