@@ -31,4 +31,4 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 
 
 
-Click [here](https://360.consolemods.org/LICENSE.html) to read the full license.
+Click [here](https://github.com/FenixConsoles/360wiki/blob/main/LICENSE.md) to read the full license.
