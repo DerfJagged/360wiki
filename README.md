@@ -6,7 +6,7 @@ If you want to go to the wiki index page, [click here](https://360.consolemods.o
 
 [Click here to learn how to contribute!](https://360.consolemods.org/contribute/index.html)
 
-
+[Click here to see our Code of Conduct](https://github.com/FenixConsoles/360wiki/blob/main/CODE_OF_CONDUCT.md)
 
 ## License
 
