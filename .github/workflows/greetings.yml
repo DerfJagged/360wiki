@@ -1,0 +1,13 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Thank you for submitting an issue! You're helping propel the 360Wiki forward to it's ultimate goal of world domination!'
+        pr-message: 'Thank you for submitting a pull request! You're helping provide the world with the largest, most complete source of information on the Xbox 360!'
