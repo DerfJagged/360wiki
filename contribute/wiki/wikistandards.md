@@ -1,9 +1,14 @@
-You MUST follow the [Page Template](pagetemplate.md) form.
+# Wiki Standards
 
-ALL disputed or non well-known claims MUST be cited or noted as [Citation Needed].
+You MUST follow the [Page Template](https://360.consolemods.org/contribute/wiki/pagetemplate.html) form.
 
-Files and folders are to be all lowercase, alphanumerically named.
+Claims MUST be cited or have placeholder [Citation Needed].
 
-Credits and citations are required.
+Disputed or Unproven claims MUST be notated with [DISPUTED]/[UNPROVEN], respectively.
 
-All images must be saved locally in the media folder, all videos must be hyperlinks to YouTube.
+Wiki files and folders must be all lowercase with alphanumeric characters ONLY.
+
+Appropriate credits are required as applicable.
+
+All images must be saved locally in the media folder and categorized appropriately, all videos must be hyperlinks to YouTube.
+
