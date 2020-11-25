@@ -6,7 +6,7 @@ Claims MUST be cited or have placeholder [Citation Needed].
 
 Disputed or Unproven claims MUST be notated with [DISPUTED]/[UNPROVEN], respectively.
 
-Wiki files and folders must be all lowercase with alphanumeric characters ONLY.
+Wiki files and folders MUST follow the [File Organization Standards](https://360.consolemods.org/contribute/wiki/fileorganization.html).
 
 Appropriate credits are required as applicable.
 
