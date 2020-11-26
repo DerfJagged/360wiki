@@ -1,1 +1,0 @@
-ABGX does hash checks on ISOs
