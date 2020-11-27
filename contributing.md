@@ -38,7 +38,7 @@ The issue system is a publicly available ticket system. You can browse our issue
 
 ### The citation system
 
-The citation system we use is meant to ensure longevity of accessibility to the information in a verifiable format. Due to size constraints, we must rely on archive.org for archiving citations. We also provide the original link for ease of access to potentially updated information, as the archive.org link is to reflect the time of access or the last time which the page was functionally accessible. If a page becomes entirely inaccessible, if must be marked with `[DEAD LINK]` in the wiki and a issue must be opened for it. Any claims or information needing a citation must be marked` [CITATION NEEDED]` to indicate a citation is needed(until which it cannot become a verified page) or `[#]`(indicating the relevant citation in the `References` section at the bottom of the page). External links that are not for citation may be added only if that information is irrelevant to the wiki's topics and are preferable in the form of direct links, with archive.org links added only where the direct link is unavailable. All citations must be in MLA format. To learn about MLA format click here.[LINK NEEDED]
+The citation system we use is meant to ensure longevity of accessibility to the information in a verifiable format. Due to size constraints, we must rely on archive.org for archiving citations. We also provide the original link for ease of access to potentially updated information, as the archive.org link is to reflect the time of access or the last time which the page was functionally accessible. If a page becomes entirely inaccessible, if must be marked with `[DEAD LINK]` in the wiki and a issue must be opened for it. Any claims or information needing a citation must be marked` [CITATION NEEDED]` to indicate a citation is needed(until which it cannot become a verified page) or `[#]`(indicating the relevant citation in the `References` section at the bottom of the page). All citations must be in MLA format. To learn about MLA format click here.[LINK NEEDED] Information that is relevant to a page but is outside the scope of this wiki must be linked directly to a relevant source on that topic, with archive.org links being used in lieu of a direct link wherever a direct link is dead and a equivalent replacement is unavailable.
 
 ### The verified pages system
 
@@ -110,4 +110,5 @@ media>consoles - All external images of fully assembled consoles belong in here 
 
 `le`: limited edition, `dev`: development console, `re`: retail console, `cus`: custom console, `descriptive name`: keep it short but identifiable, `pos`: small descriptor indicating the position from which the image was taken.
 
-**MORE NEEDS TO BE ADDED HERE**
+
+
