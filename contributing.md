@@ -100,9 +100,9 @@ Wiki pages must be contained on the root of the repository and accessible from t
 
 ## File Structure
 
-### Any structure you add must follow the general idea here. Be descriptive in as few words possible. All file and folder names MUST BE all *lowercase*, *alphanumeric*, and *written in English*.
+### Structure may be built upon, but must be documented here, all file and folder names MUST BE all *lowercase*, *alphanumeric*, and *written in English*, and be sensible.
 
-root - holds all primary category folders and base pages for the wiki and repository.
+root - This holds all primary category folders and base pages for the wiki and repository.
 
 media - For all images. This folder is categorized and must be categorized in a manner that makes sense and the information about the structure must be added here.
 
@@ -110,5 +110,12 @@ media>consoles - All external images of fully assembled consoles belong in here 
 
 `le`: limited edition, `dev`: development console, `re`: retail console, `cus`: custom console, `descriptive name`: keep it short but identifiable, `pos`: small descriptor indicating the position from which the image was taken.
 
+guides - This is where all guides and tutorials go. 
 
+guides>custom - This is where all guides about customization(such as aesthetic modifications like leds, case mods, etc.) belong.
 
+guides>dev - This is where all guides about developing hardware, software, or modifications for the Xbox 360 or any of it's relevant components go.
+
+guides>mod - This is where all guides for the Ultimate Mod Guide will go(such as running unsigned code, backing up games, modding games, dumping the nand, identifying your console hardware, )
+
+guides>repair - This is where all guides about repairing, preserving, or 
