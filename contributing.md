@@ -110,3 +110,4 @@ media>consoles - All external images of fully assembled consoles belong in here 
 
 `le`: limited edition, `dev`: development console, `re`: retail console, `cus`: custom console, `descriptive name`: keep it short but identifiable, `pos`: small descriptor indicating the position from which the image was taken.
 
+**MORE NEEDS TO BE ADDED HERE**
