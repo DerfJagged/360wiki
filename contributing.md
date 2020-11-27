@@ -88,7 +88,7 @@ This page must contain links to all of it's sub-category index pages and links t
 
 ### Tutorial Pages
 
-These pages must contain citations for all claims and information within, as well as links to any relevant information, tutorials, tools, etc. They must also contain a Credits section at the bottom, crediting those who were involved in the research and creation of the tutorial. Credits are not required where linked page(s) credit them for the same work(i.e. you DO have to credit them for designing hardware on the hardware's page, but DO NOT have to credit them in the tutorial page if they are already credited on the appropriate page for the same work AND that page is linked appropriately in the tutorial's page.)
+These pages must contain citations for all claims and information within, as well as links to any relevant information, tutorials, tools, etc. Tutorials must include sections describing equipment and software needed to follow the tutorial, warnings relevant to the tutorial, and recommendations for further reading. They must also contain a Credits section at the bottom, crediting those who were involved in the research and creation of the tutorial. Credits are not required where linked page(s) credit them for the same work(i.e. you DO have to credit them for designing hardware on the hardware's page, but DO NOT have to credit them in the tutorial page if they are already credited on the appropriate page for the same work AND that page is linked appropriately in the tutorial's page.)
 
 ### Informational Pages
 
