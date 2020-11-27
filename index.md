@@ -1,31 +1,53 @@
-| [Ultimate Modding Guide (Start HERE)](https://360.consolemods.org/modguide/index.html) | [Repair & Maintainence](https://360.consolemods.org/repairguide/index.html) | [Start Developing for the Xbox 360](https://360.consolemods.org/development/index.html) | [How to Contribute](https://360.consolemods.org/contribute/index.html) | [History](https://360.consolemods.org/history/index.html)    |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Disabling Driver Signature Enforcement in Windows 10](https://360.consolemods.org/modguide/disabledriversigenforcement.html) | [***PLEASE*** **PRESERVE YOUR HARDWARE**](https://360.consolemods.org/repairguide/preservation/index.html) | [Hardware Development](https://360.consolemods.org/development/hardwaredev/index.html) | [Wiki Contribution](https://360.consolemods.org/contribute/wiki/index.html) | [Xbox 360 & Scene History](https://360.consolemods.org/history/history.html) |
-| [Frequently Asked Questions](https://360.consolemods.org/modguide/faq.html) | [Error Codes](https://360.consolemods.org/repairguide/errorcodes/index.html) | [Software Development](https://360.consolemods.org/development/softwaredev/index.html) | [Scene Contribution](https://360.consolemods.org/contribute/scene/index.html) | [Credits](https://360.consolemods.org/history/credits.html)  |
-| [Recommended Setup](https://360.consolemods.org/modguide/recommendedsetup.html) | [Unban Console](https://360.consolemods.org/modguide/xboxlive/unbanconsole.html) | [Modding Research & Development](https://360.consolemods.org/development/modding/index.html) | [Code of Conduct](https://github.com/FenixConsoles/360wiki/blob/main/CODE_OF_CONDUCT.md) |                                                              |
+### Getting Started
 
-### [Software](https://360.consolemods.org/software/index.html)
+| Hacking Your Console |
+| -------------------------------------------------------------------------------------- |
+| [Ultimate Modding Guide (START HERE)](https://360.consolemods.org/modguide/index.html) |
+| [Frequently Asked Questions](https://360.consolemods.org/modguide/faq.html)            | 
+| [Recommended Setup](https://360.consolemods.org/modguide/recommendedsetup.html)        | 
 
-| [Dashboards](https://360.consolemods.org/software/dashboards/index.html) | [Debuggers](Software/Debuggers/index.md)                     | Development Engines                                          | [Utilities](https://360.consolemods.org/software/utilities/index.html) | [Apps](https://360.consolemods.org/software/apps/)           |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Aurora](https://360.consolemods.org/software/dashboards/aurora.html) | [XCE Tool](https://360.consolemods.org/software/debuggers/xcetool.html) | [NeXGeN](https://xbox.consolemods.org/software/devengines/nexgen.html) | [XeXmenu](https://360.consolemods.org/software/utilities/xexmenu.html) | [Netflix](https://360.consolemods.org/software/apps/netflix.html) |
-| [Freestyle Dash](https://360.consolemods.org/software/dashboards/fsd.html) | [Peek Poker](https://360.consolemods.org/software/debuggers/peekpoker.html) |                                                              | [DashLaunch](https://360.consolemods.org/software/utilities/dashlaunch.html) |                                                              |
-| [IngeniouX](https://360.consolemods.org/software/dashboards/ingenioux.html) | [Remote Debugger](https://360.consolemods.org/software/debuggers/remotedebugger.html) |                                                              | [XM360](https://360.consolemods.org/software/utilities/xm360.html) |                                                              |
-| [XeXDash](https://360.consolemods.org/software/dashboards/xexdash.html) |                                                              |                                                              | [Fakeanim](https://360.consolemods.org/software/utilities/fakeanim.html) |                                                              |
 
-| [FATX Tools](https://360.consolemods.org/software/fatxtools/index.html) | [Networking](https://360.consolemods.org/software/networking/index.html) | [Ports & Homebrew](https://360.consolemods.org/software/portshomebrew/index.html) | [Emulation](https://360.consolemods.org/software/emulators/index.html) | [Patchers](https://360.consolemods.org/software/patchers/index.html) & [Filetype Tools](https://360.consolemods.org/software/filetypetools/index.html) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Xplorer360](https://360.consolemods.org/software/fatxtools/xplorer360.html) | [Xbox 360 Neighborhood](https://360.consolemods.org/software/networking/xboxneighborhood.html) | [MilkyTracker](https://360.consolemods.org/software/portshomebrew/milkytracker.html) | [Fusion XBOX Emulator](https://360.consolemods.org/software/emulators/xbxemu/index.html) | [X360GameHack](https://360.consolemods.org/software/patchers/x360gamehack.html) |
-| [FatXplorer](https://360.consolemods.org/software/fatxtools/fatxplorer.html) | [FTP](https://360.consolemods.org/software/networking/ftp.html) | [OpenJazz360](https://360.consolemods.org/software/portshomebrew/openjazz360.html) | [Retroarch](https://360.consolemods.org/software/emulators/retroarch.html) | [360 Content Manager](https://360.consolemods.org/software/filetypetools/360contentmanager.html) |
-| [Party Buffalo](https://360.consolemods.org/software/fatxtools/partybuffalo.html) | [SMB](https://360.consolemods.org/software/networking/smb.html) | [Rick360](https://360.consolemods.org/software/portshomebrew/rick360.html) |                                                              | [ABGX](https://360.consolemods.org/software/patchers/abgx.html) |
-|                                                              | [ConnectX](https://360.consolemods.org/software/networking/connectx.html) | [SuperMarioWar](https://360.consolemods.org/software/portshomebrew/supermariowar.html) |                                                              | [GOD2ISO](https://360.consolemods.org/software/filetypetools/god2iso.html) |
-|                                                              | [Connect360](https://360.consolemods.org/software/networking/connect360.html) |                                                              |                                                              |                                                              |
-|                                                              | [Media Center Extender/DNLA](https://360.consolemods.org/software/networking/dnla.html) |                                                              |                                                              |                                                              |
-|                                                              | [XLink Kai](https://360.consolemods.org/software/networking/kai.html) |                                                              |                                                              |                                                              |
-|                                                              | [LiNK](https://360.consolemods.org/software/networking/link.html) |                                                              |                                                              |                                                              |
-|                                                              | [Unity](https://360.consolemods.org/software/networking/unity.html) |                                                              |                                                              |                                                              |
+| Repair & Maintainence |
+| --------------------------------------------------------------------------------------------- | 
+| [**PRESERVE YOUR HARDWARE**](https://360.consolemods.org/repairguide/preservation/index.html) |
+| [General Troubleshooting](https://360.consolemods.org/repairguide/index.html)                 |
+| [Error Codes](https://360.consolemods.org/repairguide/errorcodes/index.html)                  | 
+| [Unban Console](https://360.consolemods.org/modguide/xboxlive/unbanconsole.html)              |
 
-### [Hardware](https://360.consolemods.org/hardware/index.html)
+
+| History |
+| ---------------------------------------------------------------------------- |
+| [Xbox 360 & Scene History](https://360.consolemods.org/history/history.html) |
+| [Credits](https://360.consolemods.org/history/credits.html)                  |
+
+
+### Software
+
+#### Xbox 360 Software
+
+| Dashboards                                                                  | Utilities                                                                    | Applications                                                      |
+| --- | --- | --- | --- | --- |
+| [Aurora](https://360.consolemods.org/software/dashboards/aurora.html)       | [DashLaunch](https://360.consolemods.org/software/utilities/dashlaunch.html) | [Fusion XBOX Emulator](https://360.consolemods.org/software/emulators/xbxemu/index.html) |
+| [Freestyle Dash](https://360.consolemods.org/software/dashboards/fsd.html)  | [Fakeanim](https://360.consolemods.org/software/utilities/fakeanim.html)     | [Netflix](https://360.consolemods.org/software/apps/netflix.html)
+| [IngeniouX](https://360.consolemods.org/software/dashboards/ingenioux.html) | [XM360](https://360.consolemods.org/software/utilities/xm360.html)           | [RetroArch](https://360.consolemods.org/software/emulators/retroarch.html)
+| [XeXmenu](https://360.consolemods.org/software/utilities/xexmenu.html)      |                                                                              | [Homebrew Games & Ports](https://360.consolemods.org/software/portshomebrew/index.html)
+| [XeXDash](https://360.consolemods.org/software/dashboards/xexdash.html)     |                                                                              | [Other Emulators](https://360.consolemods.org/software/emulators/index.html)
+
+#### PC Software
+
+| FATX Tools                                                                        | Networking                                                                                     | [Patchers](https://360.consolemods.org/software/patchers/index.html) & [Filetype Tools](https://360.consolemods.org/software/filetypetools/index.html) |
+| --- | --- | --- | --- | --- |
+| [Xplorer360](https://360.consolemods.org/software/fatxtools/xplorer360.html)      | [FTP](https://360.consolemods.org/software/networking/ftp.html) | [X360GameHack](https://360.consolemods.org/software/patchers/x360gamehack.html) |
+| [FatXplorer](https://360.consolemods.org/software/fatxtools/fatxplorer.html)      | [SMB](https://360.consolemods.org/software/networking/smb.html) | [360 Content Manager](https://360.consolemods.org/software/filetypetools/360contentmanager.html) |
+| [Party Buffalo](https://360.consolemods.org/software/fatxtools/partybuffalo.html) |                                 | [ABGX](https://360.consolemods.org/software/patchers/abgx.html) |
+|                                                                                   | [ConnectX](https://360.consolemods.org/software/networking/connectx.html)                      | [GOD2ISO](https://360.consolemods.org/software/filetypetools/god2iso.html) |
+|                                                                                   | [Connect360](https://360.consolemods.org/software/networking/connect360.html)                  |                                                              |                                                              |                                                              |
+|                                                                                   | [Media Center Extender/DNLA](https://360.consolemods.org/software/networking/dnla.html)        |                                                              |                                                              |                                                              |
+|                                                                                   | [XLink Kai](https://360.consolemods.org/software/networking/kai.html)                          |                                                              |                                                              |                                                              |
+|                                                                                   | [LiNK](https://360.consolemods.org/software/networking/link.html)                              |                                                              |                                                              |                                                              |
+|                                                                                   | [Unity](https://360.consolemods.org/software/networking/unity.html)                            |                                                              |                                                              |                                                              |
+
+### Hardware
 
 | [Programmers](https://360.consolemods.org/hardware/programmers/index.html) | [Glitch Chips](https://360.consolemods.org/hardware/glitchchips/index.html) | [Non-Retail](https://360.consolemods.org/hardware/nonretail/index.html) | [Xbox 360](https://360.consolemods.org/hardware/xbox360/index.html) | [Accessories](https://360.consolemods.org/hardware/accessories/index.html) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -34,6 +56,28 @@
 | [Matrix Programmer](https://360.consolemods.org/hardware/programmers/jrprogrammer.html) |                                                              |                                                              |                                                              |                                                              |
 | [ProgSkeet](https://360.consolemods.org/hardware/programmers/progskeet.html) |                                                              |                                                              |                                                              |                                                              |
 
+
+### Development and Contributing
+
+| Developing for the Xbox 360 | 
+| --------------------------------------------------------------------------- | 
+| [Hardware Development](https://360.consolemods.org/development/hardwaredev/index.html) |
+| [Software Development](https://360.consolemods.org/development/softwaredev/index.html) | 
+| [Modding Research & Development](https://360.consolemods.org/development/modding/index.html) |
+
+| Development Tools |
+| --------------------------------------------------------------------------- | 
+| [XCE Tool](https://360.consolemods.org/software/debuggers/xcetool.html) |
+| [Peek Poker](https://360.consolemods.org/software/debuggers/peekpoker.html) |
+| [Remote Debugger](https://360.consolemods.org/software/debuggers/remotedebugger.html) |
+| [Xbox 360 Neighborhood](https://360.consolemods.org/software/networking/xboxneighborhood.html) |
+
+
+| How to Contribute | 
+| --------------------------------------------------------------------------- |
+| [Wiki Contribution](https://360.consolemods.org/contribute/wiki/index.html) |
+| [Scene Contribution](https://360.consolemods.org/contribute/scene/index.html) |
+| [Code of Conduct](https://github.com/FenixConsoles/360wiki/blob/main/CODE_OF_CONDUCT.md) | 
 
 
 ### [Technical Information](https://360.consolemods.org/techinfo/index.html)
