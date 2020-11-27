@@ -54,3 +54,5 @@ XBMovie[LINK NEEDED]
 ## Credits
 
 [Modded Warfare for their tutorial on turning a JTAG/RGH into a DevKit with RGLoader.](https://www.youtube.com/watch?v=YeFZd6R3K90)
+
+[FenixConsoles](https://github.com/FenixConsoles/) - For the creation of this tutorial.
