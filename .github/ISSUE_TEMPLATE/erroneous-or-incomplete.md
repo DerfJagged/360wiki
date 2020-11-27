@@ -2,7 +2,7 @@
 name: Erroneous or Incomplete
 about: Create a report to help us provide accurate information
 title: "[ERR]"
-labels: challenge
+labels: ''
 assignees: ''
 
 ---

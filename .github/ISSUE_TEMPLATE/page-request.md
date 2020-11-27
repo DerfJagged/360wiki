@@ -2,7 +2,7 @@
 name: Page Request
 about: Request a page to be made for a topic.
 title: "[PAGEREQ] "
-labels: inforequest
+labels: ''
 assignees: ''
 
 ---
